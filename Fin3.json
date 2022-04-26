@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "ยูสเครดิตฟรี:ufzq065494302",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/72d391b6fc10f12eb2bd4f1cbb8ef30f.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/wh8OgBj"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัครใหม่รับฟรี 100 บาท",
+        "size": "xxl",
+        "margin": "none",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#FFFAFA"
+      },
+      {
+        "type": "text",
+        "text": "📍 รับได้ทุกวัน รับได้ไม่จำกัดครั้ง 📍",
+        "size": "xl",
+        "align": "center",
+        "margin": "md",
+        "color": "#FFFAFA"
+      },
+      {
+        "type": "text",
+        "text": "ทำยอด 500 ถอนได้ 300 บาทฟรีๆ",
+        "align": "center",
+        "color": "#FFFAFA",
+        "size": "lg",
+        "weight": "bold"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครใหม่คลิ๊ก",
+          "uri": "https://lin.ee/wh8OgBj"
+        },
+        "margin": "md",
+        "style": "secondary",
+        "color": "#68228B",
+        "adjustMode": "shrink-to-fit"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#EEAD0E",
+      "endColor": "#1C1C1C",
+      "centerColor": "#EEAD0E"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/wh8OgBj"
+    }
+  }
+}
+}]
