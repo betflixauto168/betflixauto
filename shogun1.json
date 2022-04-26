@@ -1,0 +1,88 @@
+[{
+  "type": "flex",
+  "altText": "🍺แจกโค้ดเครดิตฟรี 100 สมัครรับ ได้เลยไม่ต้องฝาก🍺",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/a5dba591e94c6dc114818f729d40733a.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/gGNl20W"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "SHOGUN98เครดิตฟรี",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#EEC900",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      },
+      {
+        "type": "text",
+        "text": "👇ไม่ต้องฝากเงิน เพียงเเจ้งโค๊ค👇",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "margin": "sm",
+        "color": "#E8E8E8",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      },
+      {
+        "type": "text",
+        "text": "คัดลอก: AfiFeer100-f",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "sm",
+        "color": "#E8E8E8",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎰 เเจ้งโค๊คฟรี 🎰",
+          "uri": "https://lin.ee/gGNl20W"
+        },
+        "margin": "lg",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#4F94CD"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/gGNl20W"
+    }
+  }
+}
+}]
