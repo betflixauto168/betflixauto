@@ -1,0 +1,155 @@
+[{
+  "type": "flex",
+  "altText": "สมัคร ง่ายๆแค่ปลาย นิ้ว",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/dbb8d46c57d6894c200f13dba42a8ab3.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "⚽เเจกฟรี100เครดิตฟรี💰",
+            "size": "xl",
+            "color": "#EEC900",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "🏆 รับง่ายๆ เเค่ปลายนิ้วมือ 🏆",
+            "size": "xl",
+            "align": "center",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/gGNl20W"
+            }
+          },
+          {
+            "type": "text",
+            "text": "ไม่ต้องกิจกรรม ใส่โค๊ครับเลย 100 ฟรี",
+            "size": "sm",
+            "weight": "bold",
+            "align": "center",
+            "margin": "sm",
+            "color": "#FFFFFF",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/gGNl20W"
+            }
+          },
+          {
+            "type": "separator",
+            "margin": "sm",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📌 รับฟรี 📌",
+              "uri": "https://lin.ee/gGNl20W"
+            },
+            "margin": "md",
+            "style": "primary"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#4F94CD"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/497476a5e693ee9bf43fda214eccaa82.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🥇สมัครรับโปรโมชั่น🥇",
+            "size": "xl",
+            "align": "center",
+            "color": "#EEC900"
+          },
+          {
+            "type": "text",
+            "text": "ไม่ต้องทำเทิร์น เล่นได้ทุกเกมส์",
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "⚽บอล บาคาร่า สล็อต💦",
+            "color": "#FFFFFF",
+            "size": "lg",
+            "align": "center",
+            "margin": "sm"
+          },
+          {
+            "type": "separator",
+            "margin": "xs"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "📌 สมัคร 📌",
+              "uri": "https://top168.co/"
+            },
+            "style": "primary",
+            "margin": "md"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#4F94CD"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gGNl20W"
+        }
+      }
+    }
+  ]
+}
+}]
