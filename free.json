@@ -1,0 +1,62 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/ec04f33b19bf16e58020fb0a32f7d01e.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "hello, world",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "hello, world"
+      },
+      {
+        "type": "text",
+        "text": "hello, world",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "คลิก",
+          "uri": "http://linecorp.com/"
+        },
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#9370DB"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
+  }
+}
+}]
