@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "แจกเครดิตฟรี",
+  "altText": "ฟรีไม่ต้องฝาก",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -20,16 +20,16 @@
     "contents": [
       {
         "type": "text",
-        "text": "hello, world",
+        "text": "ฟรี",
         "weight": "bold"
       },
       {
         "type": "text",
-        "text": "hello, world"
+        "text": "1000"
       },
       {
         "type": "text",
-        "text": "hello, world",
+        "text": "ไม่ต้องฝากก่อน",
         "action": {
           "type": "uri",
           "label": "action",
