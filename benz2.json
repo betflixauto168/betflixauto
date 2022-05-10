@@ -1,0 +1,119 @@
+[{
+  "type": "flex",
+  "altText": "ANJKNเเจกโบนัส 100",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/f5f62c7240845dbf4d666a85d68b954f.jpg",
+    "size": "full",
+    "action": {
+      "type": "postback",
+      "label": "action",
+      "data": "https://lin.ee/WrECqg6"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "โปร 50 รับ 50 บาท",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#99FFCC"
+      },
+      {
+        "type": "text",
+        "text": "🚩ทำยอดได้เสีย 400 ถอนได้ 200 บาท",
+        "size": "lg",
+        "weight": "bold",
+        "margin": "lg",
+        "color": "#3300CC"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถาม",
+              "uri": "https://lin.ee/WrECqg6"
+            },
+            "style": "secondary",
+            "color": "#99FFCC",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สนใจ",
+              "uri": "https://lin.ee/WrECqg6"
+            },
+            "color": "#99FFCC",
+            "style": "secondary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโปร",
+              "uri": "https://lin.ee/WrECqg6"
+            },
+            "margin": "md",
+            "color": "#99FFCC",
+            "style": "secondary"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFFF33",
+      "endColor": "#FF3366"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/WrECqg6"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://lin.ee/WrECqg6"
+        },
+        "style": "secondary",
+        "color": "#99FFCC"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF3366",
+      "endColor": "#FFFF33"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/WrECqg6"
+    }
+  }
+}
+}]
