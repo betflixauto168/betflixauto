@@ -1,0 +1,104 @@
+[{
+  "type": "flex",
+  "altText": "ฉลาดเดือนเกิดเฮีย หมี แจกเครดิตฟรี 50",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/05/14/HcGmJW.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/2cd11zf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ใครยังไม่เคยได้ รับ เครดิตฟรี",
+        "align": "center",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#8B2500",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/2cd11zf"
+        }
+      },
+      {
+        "type": "text",
+        "text": "เฮียเอามาแจกให้แล้ว ตอนนี้",
+        "align": "center",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#8B0000",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/2cd11zf"
+        }
+      },
+      {
+        "type": "text",
+        "text": "👇👇กดสมัครมาเลย👇👇",
+        "align": "center",
+        "size": "xl",
+        "weight": "bold",
+        "color": "#8B4789",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/2cd11zf"
+        }
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFD700",
+      "endColor": "#FFD700"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/2cd11zf"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/05/14/HcJkVR.gif",
+        "size": "4xl",
+        "aspectRatio": "5:3",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/2cd11zf"
+        }
+      }
+    ],
+    "backgroundColor": "#FF8C00",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#8B4789",
+      "endColor": "#FFD700"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/2cd11zf"
+    }
+  }
+}
+}]
