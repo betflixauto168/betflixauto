@@ -1,0 +1,92 @@
+[{
+  "type": "flex",
+  "altText": "แจกเองกับระบบไม่ผ่านเอเย่น",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/c993b6d840739e4b3999695913173ad7.jpg",
+    "margin": "none",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/baN7qOO"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "SA Online 89",
+        "margin": "sm",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#48D1CC",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/baN7qOO"
+        }
+      },
+      {
+        "type": "text",
+        "text": "สมัคร ตอนนี้รับเครดิตฟรี ไป เลย",
+        "margin": "sm",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFF5EE",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/baN7qOO"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รับได้เลย ไม่ต้องฝากก่อน เว็บตรงแจกเอง",
+        "margin": "sm",
+        "size": "md",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFF5EE",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/baN7qOO"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://s4.aconvert.com/convert/p3r68-cdx67/a7q4q-p08p1.png",
+        "margin": "sm",
+        "animated": true,
+        "size": "3xl",
+        "aspectRatio": "2:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/baN7qOO"
+        }
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#CDAD00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/baN7qOO"
+    }
+  }
+}
+}]
