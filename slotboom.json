@@ -1,0 +1,87 @@
+[{
+  "type": "flex",
+  "altText": "สมัครใหม่รับไปเลยฟรีๆ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/220f5da340df58f487ea677fa29d8999.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/oGAo6pp"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "SLOTBOOM777",
+        "align": "center",
+        "margin": "none",
+        "decoration": "underline",
+        "size": "xxl",
+        "weight": "bold",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oGAo6pp"
+        },
+        "color": "#FF1493"
+      },
+      {
+        "type": "text",
+        "text": "รับได้เลยโดยที่ไม่ต้องฝากก่อน",
+        "align": "center",
+        "margin": "md",
+        "color": "#FF1493",
+        "size": "xl",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oGAo6pp"
+        }
+      },
+      {
+        "type": "text",
+        "text": "ทำยอด 800 ถอนได้เลย",
+        "align": "center",
+        "margin": "md",
+        "color": "#FF1493",
+        "size": "xl",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oGAo6pp"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/83f62729479207e9ad4aab4c9e4ed10b.png",
+        "animated": true,
+        "size": "full",
+        "margin": "none",
+        "aspectRatio": "1040:340",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/oGAo6pp"
+        },
+        "flex": 1,
+        "gravity": "center"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    }
+  }
+}
+}]
