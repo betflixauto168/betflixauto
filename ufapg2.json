@@ -1,0 +1,139 @@
+[{
+  "type": "flex",
+  "altText": " คุณได้ยูสทดลองเล่นฟรี 300  ",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/6cdf46df0c46b66f115ee74e67df2b55.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/JxSwoAi"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/e68fc642c07d663599b0b45b684cfa74.png",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "UFA PG",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกคิตฟรี 300  เเจกฟรีไม่ต้องฝาก",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เพื่อน 616,028 ติดตาม 73,561 คน",
+                    "size": "xxs",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#CD950C",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/JxSwoAi"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับฟรี 300 ",
+          "uri": "https://lin.ee/JxSwoAi"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#CD950C",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/JxSwoAi"
+    }
+  }
+}
+}]
