@@ -1,0 +1,128 @@
+[{
+  "type": "flex",
+  "altText": "📢รับเครดิตฟรีกันยัง รับได้ทุกคน ทั้งสมาชิกเก่าและใหม่",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/b39d93e25e8418a93682c2fbbc301fd9.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/lPb0Yam"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมาชิกเก่า-สามชิกใหม่รับได้หมด",
+            "align": "center",
+            "size": "lg",
+            "color": "#CCFF99"
+          },
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 100 เครดิต",
+            "size": "xl",
+            "align": "center",
+            "weight": "bold",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครเครดิตฟรี",
+                  "uri": "https://lin.ee/lPb0Yam"
+                },
+                "style": "secondary",
+                "margin": "lg",
+                "position": "relative",
+                "color": "#CCCCFF",
+                "height": "sm"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#660099",
+          "endColor": "#660099",
+          "centerColor": "#9933CC"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/f7bb08b59b0f2b05db278920e7583231.png",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกม กระเป๋าเดียวจบ",
+            "size": "lg",
+            "align": "center",
+            "color": "#CCFF99"
+          },
+          {
+            "type": "text",
+            "text": "โบนัสสูงสุด 100%",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center",
+            "color": "#CCFF00"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ฝากรับโปร",
+                  "uri": "https://bit.ly/3MSb0fh"
+                },
+                "style": "secondary",
+                "height": "sm",
+                "margin": "lg",
+                "color": "#CCCCFF"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#660099",
+          "endColor": "#660099",
+          "centerColor": "#9933CC"
+        }
+      },
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://bit.ly/3MSb0fh"
+      }
+    }
+  ]
+}
+}]
