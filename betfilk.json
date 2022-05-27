@@ -1,0 +1,64 @@
+[{
+  "type": "flex",
+  "altText": "🎁แจกเครดิต 200 เครดิต ทำยอด 1000 ถอนได้เลย 300 โบนัสสูงสุด 100%💰",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/5d988b1bc76bfe37050635a95f5bf6c8.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/6bfTh8q"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎁สมาชิกใหม่โบนัสสูงสุด 100%🎁ิิิ",
+        "align": "center",
+        "size": "xl"
+      },
+      {
+        "type": "text",
+        "text": "รับเครดิตฟรี 200 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/6bfTh8q"
+            },
+            "style": "primary",
+            "margin": "lg"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์รับเครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "primary",
+            "margin": "lg"
+          }
+        ],
+        "margin": "sm"
+      }
+    ]
+  }
+}
+}]
