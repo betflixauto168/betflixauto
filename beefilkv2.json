@@ -8,7 +8,12 @@
     "type": "image",
     "url": "https://www.img.in.th/images/b39d93e25e8418a93682c2fbbc301fd9.png",
     "margin": "xxl",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/lPb0Yam"
+    }
   },
   "body": {
     "type": "box",
@@ -38,7 +43,7 @@
             "action": {
               "type": "uri",
               "label": "เครดิตฟรี",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/lPb0Yam"
             },
             "height": "md",
             "style": "secondary",
