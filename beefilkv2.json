@@ -1,0 +1,60 @@
+[{
+  "type": "flex",
+  "altText": "📢🍉BetFilk แจกเครดิตฟรีแล้ววันนี้ 100 เครดิต🔥🔥",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/b39d93e25e8418a93682c2fbbc301fd9.png",
+    "margin": "xxl",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🚩รับฟรี 100 ทำยอด 700 ถอนได้ 300 ",
+        "contents": [],
+        "align": "center",
+        "weight": "bold",
+        "size": "lg",
+        "color": "#CCFF00"
+      },
+      {
+        "type": "text",
+        "text": "รับง่าย ฝาก-ถอนเร็ว💨💰",
+        "align": "center",
+        "color": "#CCFFFF"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "height": "md",
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#CCCCFF"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#660099",
+      "endColor": "#660099",
+      "centerColor": "#9933CC"
+    }
+  }
+}
+}]
