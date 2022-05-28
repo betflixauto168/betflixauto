@@ -77,7 +77,8 @@
             "type": "text",
             "text": "กระเป๋าเดียว ไม่ต้องโยกเงิน",
             "size": "md",
-            "color": "#CCFF00"
+            "color": "#CCFF00",
+            "align": "center"
           }
         ],
         "background": {
