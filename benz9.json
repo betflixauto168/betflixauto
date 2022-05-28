@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "🚩 At Gnme เเจก 100 เครดิต",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/7d4d8196095bd48f827ac797127a2562.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/09fMseS"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎰 𝐀𝐭 𝐆𝐧𝐦𝐞 🎰",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/09fMseS"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 100 ไม่ต้องฝากเงินก่อน",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/09fMseS"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://lin.ee/09fMseS"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/09fMseS"
+    }
+  }
+}
+}]
