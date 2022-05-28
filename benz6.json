@@ -1,0 +1,67 @@
+ [{
+ "type": "flex",
+ "altText": "🔥ลงทะเบียน รับเครดิตฟรี 100 ",
+ "contents": {
+ "type": "bubble",
+ "size": "giga",
+ "hero": {
+   "type": "image",
+   "url": "https://www.img.in.th/images/c46731a0543f456024fe0657216ef45b.jpg",
+   "size": "full",
+   "action": {
+     "type": "uri",
+     "label": "action",
+     "uri": "https://lin.ee/DRqAC0o"
+   }
+ },
+ "body": {
+   "type": "box",
+   "layout": "vertical",
+   "contents": [
+     {
+       "type": "text",
+       "text": "🔥 เว็บตรง เเจกจริง 🔥",
+       "size": "xxl",
+       "weight": "bold",
+       "align": "center",
+       "decoration": "underline",
+       "color": "#FFA500"
+     },
+     {
+       "type": "text",
+       "text": "ลงทะเบียน สมัครรับเลย",
+       "weight": "bold",
+       "size": "xl",
+       "margin": "sm",
+       "align": "center",
+       "color": "#FFA500"
+     },
+     {
+       "type": "text",
+       "text": "เครดิตฟรี ทำยอด 500 ถอนได้ 300 ",
+       "align": "center",
+       "weight": "bold",
+       "size": "lg",
+       "color": "#FFA500"
+     },
+     {
+       "type": "button",
+       "action": {
+         "type": "uri",
+         "label": "🧧 ติดต่อรับเครดิตฟรี 🧧",
+         "uri": "https://lin.ee/DRqAC0o"
+       },
+       "margin": "lg",
+       "color": "#FFA500",
+       "style": "secondary"
+     }
+   ],
+   "backgroundColor": "#104E8B",
+   "action": {
+     "type": "uri",
+     "label": "action",
+     "uri": "https://lin.ee/DRqAC0o"
+   }
+ }
+}
+}]
