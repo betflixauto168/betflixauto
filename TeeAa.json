@@ -1,0 +1,164 @@
+{
+  "type": "flex",
+  "altText": "🍉 เครดิตฟรี ไม่ต้องรอ 🍉",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.img.in.th/images/0da8fe397126f9f98f2b1c30ef7d024a.png",
+            "size": "full",
+            "aspectMode": "cover",
+            "flex": 1,
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/d2pzjE4"
+            }
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://www.img.in.th/images/19adc934458aa69f0b3a791024b1198b.jpg",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/d2pzjE4"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "𝐁𝐄𝐓𝐅𝐋𝐈𝐗 𝟏𝟔𝟖 ",
+                    "weight": "bold",
+                    "color": "#551A8B",
+                    "size": "xl",
+                    "decoration": "underline"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     ",
+                    "size": "xl"
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกเครดิตฟรี 100 ไม่ต้องรอนาน",
+                    "size": "xl",
+                    "weight": "regular",
+                    "color": "#551A8B"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/d2pzjE4"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ผู้ติดตาม 56,216 คน",
+                    "size": "md",
+                    "color": "#551A8B",
+                    "weight": "bold",
+                    "decoration": "underline",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://lin.ee/d2pzjE4"
+                    }
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/d2pzjE4"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "backgroundColor": "#FFA54F",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/d2pzjE4"
+        }
+      }
+    ],
+    "paddingAll": "0px",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFA500",
+      "centerColor": "#FFA500",
+      "endColor": "#EEAD0E"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/d2pzjE4"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎁 สมัครฟรี คลิ๊ก 🎁",
+          "uri": "https://lin.ee/d2pzjE4"
+        },
+        "style": "primary",
+        "color": "#551A8B"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFA54F",
+      "endColor": "#FFA54F"
+    }
+  }
+}
+}
