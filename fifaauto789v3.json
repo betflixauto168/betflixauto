@@ -1,0 +1,53 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/ada773c1bf8a7579f8c91bcd6501fa57.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/BReWMFv"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "✅สมาชิกใหม่-เก่ารับเครดิตฟรี 200 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "รับโบนัสอีก 100%📢💰",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัครรับเครดิตฟรี",
+          "uri": "https://lin.ee/BReWMFv"
+        },
+        "style": "primary",
+        "margin": "md"
+      }
+    ]
+  }
+}
+}]
