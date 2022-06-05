@@ -1,0 +1,121 @@
+[{
+  "type": "flex",
+  "altText": "✨✨แจกฟรี 100 ทำ600ถอนได้เลย 300 รีบเลย🐱‍🐉🐱‍🐉",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/763e0b5423bdfe77b13675878d933d92.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/brD6Xqq"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 100 เครดิตรับฟได้ฟรีๆ",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFCC00"
+          },
+          {
+            "type": "text",
+            "text": "ไม่ต้องฝากก่อนสักบาท",
+            "align": "center",
+            "color": "#FFCC33"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/brD6Xqq"
+                },
+                "style": "primary",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#4169E1",
+          "endColor": "#333399",
+          "centerColor": "#4169E1"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/cbee884cba4dcfe4d4167acf64944135.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.autoslotonline.net/"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โบนัส 100% รับได้ทุกคน",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFCC33"
+          },
+          {
+            "type": "text",
+            "text": "เล่นได้ทุกค่ายเกม ไม่จำกัดเดิมพัน",
+            "align": "center",
+            "weight": "bold",
+            "color": "#FFCC33"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครฝาก",
+                  "uri": "https://www.autoslotonline.net/"
+                },
+                "style": "primary",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#4169E1",
+          "endColor": "#333399",
+          "centerColor": "#4169E1"
+        }
+      }
+    }
+  ]
+}
+}]
