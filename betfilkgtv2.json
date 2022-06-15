@@ -1,0 +1,123 @@
+[{
+  "type": "flex",
+  "altText": "🎃สมัครรับเครดิตฟรี 100 เครดิตไม่มีกิจกรรม🎊🎊",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/da0438c0957cbade79868074c83189a1.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QK674IZ"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 100 เคดิตตอนนี้",
+            "align": "center",
+            "weight": "bold",
+            "color": "#99CCFF",
+            "size": "lg"
+          },
+          {
+            "type": "text",
+            "text": "รับเครดิตฟรีก็ง่าย ฝากเล่นก็เร็ว",
+            "align": "center",
+            "color": "#99CCFF"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครเครดิตฟรี",
+                  "uri": "https://lin.ee/QK674IZ"
+                },
+                "margin": "lg",
+                "style": "primary",
+                "height": "sm"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "3deg",
+          "startColor": "#000000",
+          "endColor": "#9900CC",
+          "centerColor": "#660099"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/ee7763ede032063fad6ce4dee5df247f.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/3mN8Th5"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็ปตรง ไม่ผ่านเอเย่นต์",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#99CCFF"
+          },
+          {
+            "type": "text",
+            "text": "ระบบอัตโนมัติทั้งระบบ",
+            "align": "center",
+            "color": "#99CCFF"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครฝากรับโปร",
+                  "uri": "https://bit.ly/3mN8Th5"
+                },
+                "style": "primary",
+                "margin": "lg",
+                "height": "sm"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#9900CC",
+          "centerColor": "#660099"
+        }
+      }
+    }
+  ]
+}
+}]
