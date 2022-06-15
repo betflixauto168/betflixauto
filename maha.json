@@ -1,0 +1,88 @@
+[{
+  "type": "flex",
+  "altText": "นำมาแจ้งก็รับไปเลยฟรีๆ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/205e35e795114e3e6390488a275f6d1b.png",
+    "animated": true,
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/xXocvXg"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "MAHA GAME77",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/xXocvXg"
+        },
+        "size": "xxl",
+        "align": "center",
+        "weight": "bold",
+        "decoration": "underline",
+        "offsetBottom": "sm",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "นำโค๊ดนี้มาแจ้งรับไปเลยฟรีๆ 100 เครดิต",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/xXocvXg"
+        },
+        "align": "center",
+        "size": "lg",
+        "color": "#F5F5DC"
+      },
+      {
+        "type": "text",
+        "text": "COLD: KHAfwscx100frx",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/xXocvXg"
+        },
+        "offsetBottom": "none",
+        "offsetEnd": "none",
+        "align": "center",
+        "offsetTop": "md",
+        "color": "#00FF7F"
+      },
+      {
+        "type": "image",
+        "url": "https://www.img.in.th/images/83f62729479207e9ad4aab4c9e4ed10b.png",
+        "animated": true,
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/xXocvXg"
+        },
+        "size": "4xl"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/xXocvXg"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FF0000"
+    }
+  }
+}
+}]
