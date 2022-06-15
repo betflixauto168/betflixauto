@@ -1,0 +1,67 @@
+[{
+  "type": "flex",
+  "altText": "รับ100ง่ายๆ ไม่ง้อดวง ฟรี 🎉🎉",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/da0438c0957cbade79868074c83189a1.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/QK674IZ"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เครดิตฟรี 100 รับง่ายๆ ไม่ง้อดวง",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "none",
+        "color": "#CCCC33"
+      },
+      {
+        "type": "text",
+        "text": "ทำเทิร์นต่ำ ถอนได้สูงสุด 500 บาท",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "margin": "xs",
+        "color": "#CCCC66"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครเครดิตฟรี",
+              "uri": "https://lin.ee/QK674IZ"
+            },
+            "margin": "md",
+            "style": "secondary",
+            "height": "md"
+          }
+        ],
+        "margin": "sm"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "05deg",
+      "startColor": "#000000",
+      "endColor": "#6600CC",
+      "centerColor": "#330066"
+    }
+  }
+}
+}]
