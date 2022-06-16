@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "✅สมัคร รับโค๊ด แค่นี้ก็รับได้แล้ว 100เครดิตฟรี🎊🎊",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/0a620e14f9b1060617101f42309fb987.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/1xTiUKN"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัคร แจ้งแอดมิน รับโค๊ดเครดิตฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FF9933"
+      },
+      {
+        "type": "text",
+        "text": "🎉ขั้นตอนง่ายๆ รับได้เลย 100 เครดิตทันที🎉",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉รับโค๊ดเครดิตฟรี👈",
+              "uri": "https://lin.ee/1xTiUKN"
+            },
+            "color": "#CCFFFF",
+            "style": "secondary",
+            "margin": "xl",
+            "height": "sm"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000099"
+    }
+  }
+}
+}]
