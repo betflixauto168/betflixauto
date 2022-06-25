@@ -21,7 +21,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/LuPTvI9"
+          "uri": "https://lin.ee/hUtoFDN"
         }
       },
       {
@@ -102,7 +102,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/LuPTvI9"
+          "uri": "https://lin.ee/hUtoFDN"
         }
       }
     ],
@@ -117,7 +117,7 @@
         "action": {
           "type": "uri",
           "label": "คลิกเพื่อรับ ",
-          "uri": "https://lin.ee/LuPTvI9"
+          "uri": "https://lin.ee/hUtoFDN"
         },
         "style": "primary",
         "color": "#00CD00"
@@ -132,7 +132,7 @@
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/LuPTvI9"
+      "uri": "https://lin.ee/hUtoFDN"
     }
   }
 }
