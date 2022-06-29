@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "แจกโค๊ดเครดิตฟรี รีบๆมรับได้เลยนะค่ะ",
+  "altText": "🎉ฉลองครบ 10 ล้านยูสเซอร์แจกเครดิตฟรี ไม่อั้น💥",
   "contents": {
   "type": "carousel",
   "contents": [
@@ -10,7 +10,12 @@
         "type": "image",
         "url": "https://sv1.picz.in.th/images/2021/08/24/2FpgyS.jpg",
         "size": "full",
-        "aspectRatio": "1:1"
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
       },
       "body": {
         "type": "box",
@@ -42,7 +47,12 @@
             "color": "#FF0000"
           }
         ],
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#FFFFFF",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
       },
       "footer": {
         "type": "box",
@@ -53,7 +63,7 @@
             "action": {
               "type": "uri",
               "label": "เเจ๊งโค๊ดรับเลย",
-              "uri": "https://lin.ee/ks2fja5"
+              "uri": "https://lin.ee/EPykpZ7"
             },
             "style": "secondary",
             "color": "#00FA9A"
@@ -63,7 +73,7 @@
             "action": {
               "type": "uri",
               "label": "ติดต่อแอดมิน",
-              "uri": "https://liff.line.me/1656285592-daqM9K0e/?content=https://boss12123.github.io/lotto432.json"
+              "uri": "https://lin.ee/EPykpZ7"
             },
             "style": "primary",
             "color": "#FF0033"
@@ -85,7 +95,12 @@
         "type": "image",
         "url": "https://www.img.in.th/images/cbb914b3ec5a2ea50106dc6526bd853a.jpg",
         "size": "full",
-        "aspectRatio": "1:1"
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
       },
       "body": {
         "type": "box",
@@ -113,7 +128,12 @@
             "align": "center",
             "color": "#FF0000"
           }
-        ]
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
       },
       "footer": {
         "type": "box",
@@ -124,7 +144,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "https://lin.ee/ks2fja5"
+              "uri": "https://lin.ee/EPykpZ7"
             },
             "color": "#00FA9A",
             "style": "primary"
@@ -134,7 +154,7 @@
             "action": {
               "type": "uri",
               "label": "สมัครสมาชิก",
-              "uri": "https://lin.ee/ks2fja5om/"
+              "uri": "https://lin.ee/EPykpZ7"
             },
             "color": "#FF0033",
             "style": "primary"
