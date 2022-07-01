@@ -1,0 +1,56 @@
+[{
+  "type": "flex",
+  "altText": " 🎃 เเจกทุน 100 ฟรี 🎃 ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/606a7c058028f47992207df2e8f04698.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UbSY4SG"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เเจกทุน 100 Fee",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FF8C00"
+      },
+      {
+        "type": "text",
+        "text": "🎃 ไม่ต้องทำกิจกรรม รับได้ทันที 🎃",
+        "size": "xl",
+        "align": "center",
+        "color": "#FF8C00"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🔥 รับทุนฟรี 🔥",
+          "uri": "https://lin.ee/UbSY4SG"
+        },
+        "margin": "md",
+        "style": "secondary",
+        "color": "#FF8C00"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UbSY4SG"
+    }
+  }
+}
+}]
