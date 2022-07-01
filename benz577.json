@@ -1,0 +1,58 @@
+{
+  "type": "flex",
+  "altText": "@มีผู้กล่าวถึงคุณ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/895d0c4c81843cd45a05674384a8edf2.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/YyhbOgi"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "หมดปัญหา ถูกหลอกลวง",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "text",
+        "text": "🎃 เว็บตรง เเจกทุกคน 🎃",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "margin": "sm",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 100",
+          "uri": "https://lin.ee/YyhbOgi"
+        },
+        "margin": "md",
+        "color": "#F5FFFA",
+        "style": "secondary"
+      }
+    ],
+    "backgroundColor": "#FF8C00",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/YyhbOgi"
+    }
+  }
+}
+}
