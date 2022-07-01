@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "🎀 เเจก 100 รับได้ก่อนใคร 🎀",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/a162e649d2d8664ae1590b6d9c9ae168.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/mvvwOyb"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เครดิตฟรี เเจก 100",
+        "size": "3xl",
+        "weight": "bold",
+        "gravity": "top",
+        "align": "center",
+        "color": "#D02090",
+        "margin": "none"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเเจก 100",
+              "uri": "https://lin.ee/mvvwOyb"
+            },
+            "color": "#D02090",
+            "style": "primary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถาม",
+              "uri": "https://lin.ee/mvvwOyb"
+            },
+            "color": "#D02090",
+            "style": "primary",
+            "margin": "md"
+          }
+        ],
+        "margin": "lg"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/mvvwOyb"
+    }
+  }
+}
+}]
