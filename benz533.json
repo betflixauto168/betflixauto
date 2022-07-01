@@ -1,0 +1,56 @@
+[{
+  "type": "flex",
+  "altText": "🟣 สมาชิกใหม่รับ 100 ฟรี 🟣",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/8a2586c52600512cb86da24abb1de540.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/m3g27Yj"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่รับ 100 ฟรี",
+        "size": "3xl",
+        "weight": "regular",
+        "align": "center",
+        "color": "#990099"
+      },
+      {
+        "type": "text",
+        "text": "💥 1 สิทธิ์ ต่อ 1ท่าน 💥",
+        "size": "xxl",
+        "align": "center",
+        "weight": "bold",
+        "color": "#990099"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมาชิกใหม่",
+          "uri": "https://lin.ee/m3g27Yj"
+        },
+        "color": "#990099",
+        "style": "primary",
+        "margin": "lg"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/m3g27Yj"
+    }
+  }
+}
+}]
