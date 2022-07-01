@@ -1,0 +1,46 @@
+[{
+  "type": "flex",
+  "altText": "🧧 คุณได้รับเครดิต 100 ฟรี",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/895d0c4c81843cd45a05674384a8edf2.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🧧 เเจกฟรี 100 🧧",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#F8F8FF"
+      },
+      {
+        "type": "text",
+        "text": "ลงทะเบียน รับเลย 100",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#F8F8FF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับทุน",
+          "uri": "http://linecorp.com/"
+        },
+        "margin": "md",
+        "color": "#F8F8FF",
+        "style": "secondary"
+      }
+    ],
+    "backgroundColor": "#FF8C00"
+  }
+}
+}]
