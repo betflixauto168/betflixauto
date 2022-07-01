@@ -1,0 +1,58 @@
+[{
+  "type": "flex",
+  "altText": "🎃 เเจกฟรี 100 เครดิต 🎃",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2022/07/02/VP1BM9.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/YyhbOgi"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🧧 เเจกฟรี 100 🧧",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "text",
+        "text": "ลงทะเบียน รับเลย 100",
+        "size": "xl",
+        "align": "center",
+        "weight": "bold",
+        "margin": "xs",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับทุน",
+          "uri": "https://lin.ee/YyhbOgi"
+        },
+        "margin": "lg",
+        "color": "#FFFAF0",
+        "style": "secondary"
+      }
+    ],
+    "backgroundColor": "#FF6600",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/YyhbOgi"
+    }
+  }
+}
+}]
