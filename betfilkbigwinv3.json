@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "☣รีบเร็ว มาเอาเงินกัน แจกฟรี 150บาท🔸",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/d0328287931ba3e242de565040db7935.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/6sy7GTq"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 150 เครดิต",
+        "size": "xl",
+        "align": "center",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "โบนัสสูงสุด100%",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/6sy7GTq"
+            },
+            "style": "primary",
+            "margin": "xs"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://auto.betflikslotonline.com/login"
+            },
+            "style": "primary",
+            "margin": "xs"
+          }
+        ],
+        "margin": "md"
+      }
+    ]
+  }
+}
+}]
