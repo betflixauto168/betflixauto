@@ -1,0 +1,44 @@
+[{
+  "type": "flex",
+  "altText": "📌แจกทุกวัน รับได้ทุกคน💟",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/f71d2368eab54cfb62afa09781e60668.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/ole3yyw"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกฟรีทุกวัน",
+        "size": "4xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FF0000",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/"
+        }
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000066",
+      "endColor": "#000066",
+      "centerColor": "#3366CC"
+    }
+  }
+}
+}]
