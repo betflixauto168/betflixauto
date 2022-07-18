@@ -1,18 +1,13 @@
 [{
   "type": "flex",
-  "altText": "📌แจกทุกวัน รับได้ทุกคน💟",
+  "altText": "😘คุณได้รับเครดิตฟรี 100 ชอบไหมจ้าา",
   "contents": {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://www.img.in.th/images/f71d2368eab54cfb62afa09781e60668.png",
-    "size": "full",
-    "action": {
-      "type": "uri",
-      "label": "action",
-      "uri": "https://lin.ee/ole3yyw"
-    }
+    "url": "https://sv1.picz.in.th/images/2022/07/18/VMRaNW.png",
+    "size": "full"
   },
   "body": {
     "type": "box",
@@ -20,24 +15,55 @@
     "contents": [
       {
         "type": "text",
-        "text": "แจกฟรีทุกวัน",
-        "size": "4xl",
-        "weight": "bold",
+        "text": "✅เครดิตฟรี 100 ไม่ต้องฝากก่อน✅",
         "align": "center",
-        "color": "#FF0000",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "http://linecorp.com/"
-        }
+        "weight": "bold",
+        "size": "lg",
+        "color": "#FAEBD7"
+      },
+      {
+        "type": "text",
+        "text": "🔥ทำยอด 500 ถอนได้เลย แจกทุกวัน🔥",
+        "align": "center",
+        "weight": "regular",
+        "color": "#FFFFF0"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "secondary",
+            "margin": "md",
+            "color": "#00FF7F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์เลย",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "secondary",
+            "margin": "md",
+            "color": "#FF3399"
+          }
+        ],
+        "margin": "lg"
       }
     ],
     "background": {
       "type": "linearGradient",
       "angle": "0deg",
-      "startColor": "#000066",
-      "endColor": "#000066",
-      "centerColor": "#3366CC"
+      "startColor": "#000000",
+      "endColor": "#330066",
+      "centerColor": "#00CCFF"
     }
   }
 }
