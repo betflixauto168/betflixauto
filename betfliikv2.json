@@ -1,13 +1,18 @@
 [{
   "type": "flex",
-  "altText": "😘คุณได้รับเครดิตฟรี 100 ชอบไหมจ้าา",
+  "altText": "😘คุณได้รับเครดิตฟรี 100 เล่นได้เลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
     "url": "https://sv1.picz.in.th/images/2022/07/18/VMRaNW.png",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
   },
   "body": {
     "type": "box",
@@ -37,7 +42,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/ole3yyw"
             },
             "style": "secondary",
             "margin": "md",
@@ -48,7 +53,7 @@
             "action": {
               "type": "uri",
               "label": "แชร์เลย",
-              "uri": "http://linecorp.com/"
+              "uri": "https://liff.line.me/1657171253-RB9BaEX6/?messages=https://betflixauto168.github.io/betflixauto/betfliikv2.json"
             },
             "style": "secondary",
             "margin": "md",
