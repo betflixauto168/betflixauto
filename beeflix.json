@@ -6,7 +6,12 @@
   "hero": {
     "type": "image",
     "url": "https://www.img.in.th/images/f1bd598a9f8e8ed7da0f0595efa04c7f.jpg",
-    "size": "full"
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/lwrm8Qh"
+    }
   },
   "body": {
     "type": "box",
@@ -35,7 +40,7 @@
             "action": {
               "type": "uri",
               "label": "รับเครดิตฟรี",
-              "uri": "http://linecorp.com/"
+              "uri": "https://lin.ee/lwrm8Qh"
             },
             "style": "secondary",
             "height": "md",
@@ -47,7 +52,7 @@
             "action": {
               "type": "uri",
               "label": "แชร์เลย",
-              "uri": "http://linecorp.com/"
+              "uri": "https://bit.ly/3vHoSSH"
             },
             "position": "relative",
             "style": "secondary",
