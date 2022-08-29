@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/d979e12735a3fdaba5cc104aa0c51610.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://betflixslotonline.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเพชร500 แจกเครดิตฟรี20",
+        "weight": "bold",
+        "align": "center",
+        "size": "lg",
+        "color": "#CCFFCC"
+      },
+      {
+        "type": "text",
+        "text": "ลูกค้าสามารถรับได้ทุกท่าน",
+        "weight": "regular",
+        "align": "center",
+        "color": "#FFDAB9"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/z4mnUKA"
+            },
+            "style": "secondary",
+            "margin": "xl",
+            "color": "#33FF66"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แชร์เลย",
+              "uri": "http://linecorp.com/"
+            },
+            "style": "secondary",
+            "margin": "xl",
+            "color": "#CCCC33"
+          }
+        ],
+        "margin": "lg"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000033",
+      "endColor": "#00FFFF"
+    }
+  }
+}
+}]
