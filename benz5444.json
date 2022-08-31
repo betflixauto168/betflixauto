@@ -1,0 +1,95 @@
+[{
+  "type": "flex",
+  "altText": " คุณได้รับเครดิตฟรี 100 ",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://www.img.in.th/images/48c853ad170c70cdaed2827e7aef32bd.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/LuPTvI9"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "หมุนกงล้อเสี่ยงดวงฟรี",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CCFF00"
+      },
+      {
+        "type": "text",
+        "text": "ลุ้นรับเครดิตฟรี สุงสุด 300 เครดิต",
+        "margin": "sm",
+        "size": "md",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CCFF00",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์",
+              "uri": "https://lin.ee/LuPTvI9"
+            },
+            "color": "#CCFF00",
+            "style": "secondary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "หมุนกงล้อ",
+              "uri": "https://auto.sportdoy365.vip/register/line"
+            },
+            "style": "secondary",
+            "color": "#FFA500"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "lg"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "180deg",
+      "startColor": "#003333",
+      "endColor": "#CCFF00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
+  }
+}
+}]
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
