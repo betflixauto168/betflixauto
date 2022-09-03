@@ -64,7 +64,7 @@
                 "type": "text",
                 "text": "5.0",
                 "size": "xs",
-                "color": "#8c8c8c",
+                "color": "#000000",
                 "margin": "md",
                 "flex": 0
               }
@@ -79,7 +79,7 @@
                 "action": {
                   "type": "uri",
                   "label": "แชร์เลย",
-                  "uri": "https://lin.ee/z4mnUKA"
+                  "uri": "https://bit.ly/3q7wvP8"
                 },
                 "style": "primary"
               }
@@ -87,7 +87,14 @@
           }
         ],
         "spacing": "sm",
-        "paddingAll": "13px"
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#9933FF",
+          "endColor": "#ffffff",
+          "centerColor": "#9966FF"
+        }
       }
     },
     {
@@ -150,7 +157,7 @@
                 "type": "text",
                 "text": "5.0",
                 "size": "sm",
-                "color": "#8c8c8c",
+                "color": "#000000",
                 "margin": "md",
                 "flex": 0,
                 "align": "center"
@@ -174,7 +181,14 @@
           }
         ],
         "spacing": "sm",
-        "paddingAll": "13px"
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#9933FF",
+          "endColor": "#ffffff",
+          "centerColor": "#9966FF"
+        }
       }
     },
     {
@@ -236,7 +250,7 @@
                 "type": "text",
                 "text": "5.0",
                 "size": "sm",
-                "color": "#8c8c8c",
+                "color": "#000000",
                 "margin": "md",
                 "flex": 0
               }
@@ -250,7 +264,7 @@
                 "type": "button",
                 "action": {
                   "type": "uri",
-                  "label": "สมัคร",
+                  "label": "รับโบนัส",
                   "uri": "https://betflixslotonline.com/"
                 },
                 "style": "primary"
@@ -259,7 +273,14 @@
           }
         ],
         "spacing": "sm",
-        "paddingAll": "13px"
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#9933FF",
+          "endColor": "#ffffff",
+          "centerColor": "#9966FF"
+        }
       }
     }
   ]
