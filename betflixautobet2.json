@@ -1,22 +1,22 @@
 [{
   "type": "flex",
-  "altText": "👉✅แจกเครดิตฟรี 20 รับได้ไม่จำกัดถอนสูงสุด 100บาท💰🔥",
+  "altText": "🔥แจกFREE20เครดิต500เพรช💎ไม่ต้องฝากก่อน",
   "contents": {
   "type": "carousel",
   "contents": [
     {
       "type": "bubble",
-      "size": "micro",
+      "size": "mega",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/35824a1e55425bfc278e26a321b37709.jpg",
+        "url": "https://sv1.picz.in.th/images/2022/09/04/aUX1d0.jpg",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213",
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/z4mnUKA"
+          "uri": "https://betflixslotonline.com/"
         }
       },
       "body": {
@@ -25,63 +25,51 @@
         "contents": [
           {
             "type": "text",
-            "text": "แจก20เครดิตฟรี",
+            "text": "📢 แจกเครดิตฟรีทุกวัน 🔥",
             "weight": "bold",
-            "size": "sm",
+            "size": "xl",
             "wrap": true,
-            "align": "center"
+            "align": "center",
+            "color": "#9900FF"
+          },
+          {
+            "type": "text",
+            "text": "👉รับได้เลยไม่ต้องฝากก่อน ไม่ต้องลงทุน👈",
+            "align": "center",
+            "size": "sm",
+            "weight": "regular",
+            "color": "#9900FF"
           },
           {
             "type": "box",
-            "layout": "baseline",
-            "contents": [
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "text",
-                "text": "5.0",
-                "size": "xs",
-                "color": "#000000",
-                "margin": "md",
-                "flex": 0
-              }
-            ]
+            "layout": "vertical",
+            "contents": []
           },
           {
             "type": "box",
             "layout": "vertical",
             "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/z4mnUKA"
+                },
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#66FFFF"
+              },
               {
                 "type": "button",
                 "action": {
                   "type": "uri",
                   "label": "แชร์เลย",
-                  "uri": "https://bit.ly/3q7wvP8"
+                  "uri": "https://bit.ly/3RhbGwS"
                 },
-                "style": "primary"
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#00FF00"
               }
             ]
           }
@@ -91,18 +79,18 @@
         "background": {
           "type": "linearGradient",
           "angle": "0deg",
-          "startColor": "#9933FF",
-          "endColor": "#ffffff",
-          "centerColor": "#9966FF"
+          "startColor": "#330066",
+          "endColor": "#CCFFFF",
+          "centerColor": "#9999FF"
         }
       }
     },
     {
       "type": "bubble",
-      "size": "micro",
+      "size": "mega",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/1bd80cd2e7d91d39bff85f22f8051f21.png",
+        "url": "https://sv1.picz.in.th/images/2022/09/04/aUXKKu.png",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213",
@@ -118,51 +106,18 @@
         "contents": [
           {
             "type": "text",
-            "text": "ฝาก-ถอน AUTO",
+            "text": "📢 โปรโมชั่น 29 รับ 100 ✅",
             "weight": "bold",
-            "size": "sm",
+            "size": "xl",
             "wrap": true,
             "align": "center"
           },
           {
-            "type": "box",
-            "layout": "baseline",
-            "contents": [
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "text",
-                "text": "5.0",
-                "size": "sm",
-                "color": "#000000",
-                "margin": "md",
-                "flex": 0,
-                "align": "center"
-              }
-            ]
+            "type": "text",
+            "text": "✅ สมัครสมาชิกใหม่รับได้ทันที ✅",
+            "weight": "regular",
+            "size": "md",
+            "align": "center"
           },
           {
             "type": "box",
@@ -172,10 +127,23 @@
                 "type": "button",
                 "action": {
                   "type": "uri",
-                  "label": "เข้าสู่เว็บ",
+                  "label": "สมัครสมาชิก",
+                  "uri": "https://auto.betflikslotonline.com/login"
+                },
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#FFFF00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็บไซต์",
                   "uri": "https://betflixslotonline.com/"
                 },
-                "style": "primary"
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#00FF00"
               }
             ]
           }
@@ -185,18 +153,18 @@
         "background": {
           "type": "linearGradient",
           "angle": "0deg",
-          "startColor": "#9933FF",
-          "endColor": "#ffffff",
-          "centerColor": "#9966FF"
+          "startColor": "#330066",
+          "endColor": "#CCFFFF",
+          "centerColor": "#9999FF"
         }
       }
     },
     {
       "type": "bubble",
-      "size": "micro",
+      "size": "mega",
       "hero": {
         "type": "image",
-        "url": "https://www.img.in.th/images/d7bea67cd1c2b1ba09fcfd07cba00ea6.png",
+        "url": "https://sv1.picz.in.th/images/2022/09/04/aUXZPZ.png",
         "size": "full",
         "aspectMode": "cover",
         "aspectRatio": "320:213",
@@ -212,49 +180,16 @@
         "contents": [
           {
             "type": "text",
-            "text": "โปรโมชั่นแนะนำ",
+            "text": "🚩 โบนัสสมาชิก 100% 🚩",
             "weight": "bold",
-            "size": "sm",
-            "align": "center"
+            "size": "xl"
           },
           {
-            "type": "box",
-            "layout": "baseline",
-            "contents": [
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "icon",
-                "size": "xs",
-                "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
-              },
-              {
-                "type": "text",
-                "text": "5.0",
-                "size": "sm",
-                "color": "#000000",
-                "margin": "md",
-                "flex": 0
-              }
-            ]
+            "type": "text",
+            "text": "✨ ไม่รับโปร ไม่ต้องทำเทิร์น ✨",
+            "align": "center",
+            "weight": "regular",
+            "size": "md"
           },
           {
             "type": "box",
@@ -264,10 +199,23 @@
                 "type": "button",
                 "action": {
                   "type": "uri",
-                  "label": "รับโบนัส",
+                  "label": "รับโปรโมชั่น",
+                  "uri": "https://auto.betflikslotonline.com/login"
+                },
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#FFFF00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็บไซต์",
                   "uri": "https://betflixslotonline.com/"
                 },
-                "style": "primary"
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#00FF00"
               }
             ]
           }
@@ -277,9 +225,9 @@
         "background": {
           "type": "linearGradient",
           "angle": "0deg",
-          "startColor": "#9933FF",
-          "endColor": "#ffffff",
-          "centerColor": "#9966FF"
+          "startColor": "#330066",
+          "endColor": "#CCFFFF",
+          "centerColor": "#9999FF"
         }
       }
     }
