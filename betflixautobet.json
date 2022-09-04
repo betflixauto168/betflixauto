@@ -1,11 +1,12 @@
 [{
   "type": "flex",
-  "altText": "แจก 500 เพรช💎 💰20 เครดิตฟรีๆ รับได้ทุกท่าน✅",
+  "altText": "✅รับเครดิตฟรี หมุนกงล้อฟรี💋"
   "contents": {
   "type": "bubble",
   "hero": {
     "type": "image",
-    "url": "https://www.img.in.th/images/d979e12735a3fdaba5cc104aa0c51610.png",
+    "url": "https://sv1.picz.in.th/images/2022/09/04/aUX1d0.jpg",
+    "margin": "none",
     "size": "full",
     "action": {
       "type": "uri",
@@ -19,18 +20,17 @@
     "contents": [
       {
         "type": "text",
-        "text": "แจกเพชร500 แจกเครดิตฟรี20",
+        "text": "📢 แจกฟรีเครดิต ถอนได้จริง ✅",
         "weight": "bold",
+        "size": "md",
         "align": "center",
-        "size": "lg",
-        "color": "#CCFFCC"
+        "color": "#003300"
       },
       {
         "type": "text",
-        "text": "ลูกค้าสามารถรับได้ทุกท่าน",
-        "weight": "regular",
+        "text": "📌สมัครรับได้เลยไม่ต้องฝากก่อน💸",
         "align": "center",
-        "color": "#FFDAB9"
+        "color": "#FFFF00"
       },
       {
         "type": "box",
@@ -44,29 +44,28 @@
               "uri": "https://lin.ee/z4mnUKA"
             },
             "style": "secondary",
-            "margin": "xl",
-            "color": "#33FF66"
+            "margin": "lg"
           },
           {
             "type": "button",
             "action": {
               "type": "uri",
-              "label": "แชร์เลย",
-              "uri": "https://liff.line.me/1657171253-RB9BaEX6/?messages=https://betflixauto168.github.io/betflixauto/betflixautobet.json"
+              "label": "แชร์ต่อ",
+              "uri": "http://linecorp.com/"
             },
-            "style": "secondary",
-            "margin": "xl",
-            "color": "#CCCC33"
+            "style": "secondary"
           }
         ],
-        "margin": "lg"
+        "spacing": "lg",
+        "margin": "xl"
       }
     ],
     "background": {
       "type": "linearGradient",
       "angle": "0deg",
-      "startColor": "#000033",
-      "endColor": "#00FFFF"
+      "startColor": "#000000",
+      "endColor": "#99FFFF",
+      "centerColor": "#000000"
     }
   }
 }
