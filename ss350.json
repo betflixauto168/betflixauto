@@ -1,0 +1,246 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/fa5c405a7800bd5abf4bcb8d2ac944e6.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 เครดิต",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เกมสล็อต คาสิโน แจกทุนฟรี 50",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "ถอนได้จริง ไม่ต้องฝากก่อน",
+                "align": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "รับเครดิตฟรี",
+                      "uri": "https://lin.ee/MJbCXZR"
+                    },
+                    "style": "secondary",
+                    "margin": "md",
+                    "color": "#00FF66"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "กดแชร์",
+                      "uri": "http://linecorp.com/"
+                    },
+                    "style": "secondary",
+                    "margin": "md",
+                    "height": "md",
+                    "color": "#FFFF00"
+                  }
+                ],
+                "margin": "lg"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#0099FF",
+          "endColor": "#0099FF",
+          "centerColor": "#FFFAFA"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/37366ffee8f724fff6f792a715156842.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "SS Game350",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เว็บตรง ไม่ผ่านเอเยนต์",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "ระบบฝาก-ถอนอัตโนมัติ สมัครฟรี",
+                "align": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "รับโบนัส",
+                      "uri": "http://linecorp.com/"
+                    },
+                    "style": "secondary",
+                    "margin": "lg",
+                    "color": "#00FF99"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "ติดต่อแอดมิน",
+                      "uri": "http://linecorp.com/"
+                    },
+                    "style": "secondary",
+                    "margin": "lg",
+                    "color": "#FFCC66"
+                  }
+                ],
+                "margin": "lg"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#0099FF",
+          "endColor": "#0099FF",
+          "centerColor": "#FFFAFA"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://www.img.in.th/images/9cfe921559dbe41fbcbb920f620d1492.png",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "320:213"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "SS Game350",
+            "weight": "bold",
+            "size": "xl",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "text": "ฝาก-ถอนมั่นคง ปลอดภัย",
+                "align": "center"
+              },
+              {
+                "type": "text",
+                "text": "เว็บพนันออนไลน์อันดับ1ของไทย",
+                "align": "center"
+              },
+              {
+                "type": "box",
+                "layout": "horizontal",
+                "contents": [
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "เข้าเล่น",
+                      "uri": "http://linecorp.com/"
+                    },
+                    "style": "secondary",
+                    "margin": "lg",
+                    "color": "#00FF66"
+                  },
+                  {
+                    "type": "button",
+                    "action": {
+                      "type": "uri",
+                      "label": "สมัคร",
+                      "uri": "http://linecorp.com/"
+                    },
+                    "margin": "lg",
+                    "style": "secondary",
+                    "color": "#00FF66"
+                  }
+                ],
+                "margin": "lg"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#0099FF",
+          "endColor": "#0099FF",
+          "centerColor": "#FFFAFA"
+        }
+      }
+    }
+  ]
+}
+}]
