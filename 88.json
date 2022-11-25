@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "ฉลองครบ 100,000 ยูสเซอร์รับไปเลยฟรี",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.img.in.th/Frssa.png",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/ce2Ph8s"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัคร แจ้งแอดมิน รับโค๊ดเครดิตฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FF9933"
+      },
+      {
+        "type": "text",
+        "text": "🎉ขั้นตอนง่ายๆ รับได้เลย 100 เครดิตทันที🎉",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉รับโค๊ดเครดิตฟรี👈",
+              "uri": "https://lin.ee/ce2Ph8s"
+            },
+            "color": "#CCFFFF",
+            "style": "secondary",
+            "margin": "xl",
+            "height": "md"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000099"
+    }
+  }
+}
+}]
