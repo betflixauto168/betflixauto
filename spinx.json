@@ -1,0 +1,21 @@
+[{
+  "type": "flex",
+  "altText": "เว็บใหญ่แจกเองมารับไปเลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://imgz.io/images/2023/03/12/cz.jpeg",
+    "size": "full",
+    "aspectRatio": "2:3",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/KI9Riaa"
+    },
+    "margin": "none",
+    "backgroundColor": "#FF4500"
+  }
+}
+}]
