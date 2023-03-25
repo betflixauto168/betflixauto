@@ -1,18 +1,18 @@
 [{
   "type": "flex",
-  "altText": "รับได้ไม่อั่นเฮียแจกเองกับมือ",
+  "altText": "เฮียหนวดแจกเองกับมือ ใครอยากได้ทักมารับได้เลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://www.img.in.th/images/3cc9a183c1a65fcb1bdfb07e813eb254.jpg",
+    "url": "https://imgz.io/images/2023/03/25/S__41984052.jpeg",
     "size": "full",
     "aspectRatio": "2:2",
     "action": {
       "type": "uri",
       "label": "ฟรีตรงรูป",
-      "uri": "https://lin.ee/WVxnLMB"
+      "uri": "https://lin.ee/tw6ABm42"
     }
   },
   "body": {
@@ -21,17 +21,12 @@
     "contents": [
       {
         "type": "text",
-        "text": "MlAMI 999",
+        "text": "ＫＴＶＣ４",
         "size": "xxl",
         "margin": "sm",
         "weight": "bold",
         "decoration": "underline",
         "align": "center",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/WVxnLMB"
-        },
         "color": "#CDAD00"
       },
       {
@@ -41,11 +36,6 @@
         "size": "lg",
         "weight": "bold",
         "align": "center",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/WVxnLMB"
-        },
         "color": "#CDAD00"
       },
       {
@@ -55,11 +45,6 @@
         "size": "lg",
         "weight": "bold",
         "align": "center",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/WVxnLMB"
-        },
         "color": "#CDAD00"
       },
       {
@@ -69,18 +54,13 @@
         "size": "xxs",
         "color": "#ff5551",
         "wrap": true,
-        "decoration": "underline",
-        "action": {
-          "type": "uri",
-          "label": "action",
-          "uri": "https://lin.ee/WVxnLMB"
-        }
+        "decoration": "underline"
       }
     ],
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/WVxnLMB"
+      "uri": "https://lin.ee/tw6ABm42"
     },
     "background": {
       "type": "linearGradient",
@@ -98,7 +78,7 @@
         "action": {
           "type": "uri",
           "label": "รับเครดิตฟรี",
-          "uri": "https://lin.ee/WVxnLMB"
+          "uri": "https://lin.ee/tw6ABm42"
         },
         "style": "primary",
         "offsetEnd": "sm"
@@ -107,8 +87,8 @@
         "type": "button",
         "action": {
           "type": "uri",
-          "label": "ติดต่อเฮียหมู",
-          "uri": "https://lin.ee/WVxnLMB"
+          "label": "ติดต่อเฮียหนวด",
+          "uri": "https://lin.ee/tw6ABm42"
         },
         "style": "primary"
       }
@@ -122,7 +102,7 @@
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/WVxnLMB"
+      "uri": "https://lin.ee/tw6ABm42"
     }
   }
 }
