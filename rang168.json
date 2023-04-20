@@ -1,0 +1,170 @@
+[{
+  "type": "flex",
+  "altText": "สมัครใหม่วันนี้รับไป เลยฟรีๆ 50",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2023/04/20/ydogJk.jpg",
+            "size": "full",
+            "aspectMode": "cover",
+            "flex": 1,
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/8Dor2Vm"
+            }
+          }
+        ]
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://sv1.picz.in.th/images/2023/04/20/ydo6ub.jpg",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/8Dor2Vm"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "SLOT1678",
+                    "weight": "bold",
+                    "color": "#ff4e50",
+                    "size": "xl",
+                    "decoration": "underline"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     ",
+                    "size": "xl"
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกเครดิตฟรี 100 ไม่ต้องรอนาน",
+                    "size": "xl",
+                    "weight": "regular",
+                    "color": "#FF0000"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true,
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/ME3BDpk"
+                }
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "ผู้ติดตาม 35,356 คน",
+                    "size": "md",
+                    "color": "#f9d423",
+                    "weight": "bold",
+                    "decoration": "underline",
+                    "action": {
+                      "type": "uri",
+                      "label": "action",
+                      "uri": "https://lin.ee/8Dor2Vm"
+                    }
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/8Dor2Vm"
+                }
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/8Dor2Vm"
+        },
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#f0c27b",
+          "endColor": "#551A8B"
+        }
+      }
+    ],
+    "paddingAll": "0px",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "centerColor": "#000000",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8Dor2Vm"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎁 รับทุนฟรี 🎁",
+          "uri": "https://lin.ee/8Dor2Vm"
+        },
+        "style": "primary",
+        "color": "#551A8B"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#551A8B",
+      "endColor": "#f0c27b"
+    }
+  }
+}
+}]
