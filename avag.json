@@ -1,0 +1,86 @@
+[{
+  "type": "flex",
+  "altText": "🔥อเวจี แจกเครดิตฟรีไม่อั่น 50 เครดิตทุกยูส",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://imgz.io/images/2023/05/15/line_oa_chat_230515_161923.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/nH3ykh2"
+    },
+    "backgroundColor": "#330000"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🔥  อเวจีservice 🔥",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/nH3ykh2"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 50 ไม่ต้องฝากเงินก่อน",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/nH3ykh2"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://lin.ee/nH3ykh2"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/nH3ykh2"
+    }
+  }
+}
+}]
