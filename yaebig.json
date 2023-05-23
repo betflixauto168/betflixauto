@@ -1,0 +1,87 @@
+[{
+  "type": "flex",
+  "altText": "🐱‍🐉สมัครสมาชิกใหม่รับไปเลยฟรีๆ🐱‍🐉",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2023/05/23/FUvhRk.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/g0YyKVE"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่วันนี้รับฟรี  50 เครดิต",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/g0YyKVE"
+        },
+        "color": "#1C1C1C",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "เพียงสมัครสมาชิกเท่านั้น",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/g0YyKVE"
+        },
+        "color": "#1C1C1C",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://lin.ee/g0YyKVE"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถาม",
+              "uri": "https://lin.ee/g0YyKVE"
+            },
+            "style": "primary",
+            "margin": "md"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FFD700",
+      "centerColor": "#FFD700"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/g0YyKVE"
+    }
+  }
+}
+}]
