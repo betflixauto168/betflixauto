@@ -1,0 +1,75 @@
+[{
+  "type": "flex",
+  "altText": "⛔ ลงทะเบียน รับฟรี 50 ⛔",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2023/05/30/FVzcXJ.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/vsVfQOa"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เว็บตรง เเจกหนัก เเจกจริง",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 50 บาท เข้าบัญชี ทันที",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ลงทะเบียน",
+              "uri": "https://lin.ee/vsVfQOa"
+            },
+            "margin": "md",
+            "color": "#FFD700",
+            "style": "secondary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://lin.ee/vsVfQOa"
+            },
+            "margin": "md",
+            "color": "#FFD700",
+            "style": "secondary"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#9400D3",
+      "endColor": "#9370DB"
+    }
+  }
+}
+}]
