@@ -1,0 +1,64 @@
+[{
+  "type": "flex",
+  "altText": "😻ทาสแมวรับไปเลย ฟรี 100 ไม่อั้นถอน เล่นได้เอาไปเลย🙀",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2023/06/05/IWoWyS.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/mfyMA33"
+    },
+    "backgroundColor": "#000080"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัคร แจ้งแอดมิน รับโค๊ดเครดิตฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FF9933"
+      },
+      {
+        "type": "text",
+        "text": "🎉ขั้นตอนง่ายๆ รับได้เลย 50 เครดิตทันที🎉",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉รับโค๊ดเครดิตฟรี👈",
+              "uri": "https://lin.ee/mfyMA33"
+            },
+            "color": "#CCFFFF",
+            "style": "secondary",
+            "margin": "xl",
+            "height": "md"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000099"
+    }
+  }
+}
+}]
