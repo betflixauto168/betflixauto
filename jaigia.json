@@ -1,0 +1,116 @@
+[{
+  "type": "flex",
+  "altText": "สมัครสมาชิกใหม่ รับไป เลย ฟรี 50 ไม่อั้นถอน🔥",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.pic.in.th/file/picinth/S__44949512.jpeg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/9y0f9Ot"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "จ้าวเจ๊ง😘",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center",
+        "color": "#66FF99"
+      },
+      {
+        "type": "text",
+        "text": "📣กับมาอีกครั้ง อย่างยิ่งใหญ่🔥",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📢แจกเครดิตฟรี มูลค่า 500,000 บาท",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#F0F8FF",
+      "endColor": "#EEDD82"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/9y0f9Ot"
+        },
+        "style": "secondary",
+        "offsetEnd": "sm",
+        "color": "#06ec11"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อแอดมิน",
+          "uri": "https://lin.ee/9y0f9Ot"
+        },
+        "style": "secondary",
+        "color": "#06ec11"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สอบถาม",
+          "uri": "https://lin.ee/9y0f9Ot"
+        },
+        "style": "secondary",
+        "offsetEnd": "none",
+        "offsetStart": "sm",
+        "color": "#06ec11"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#EEDD82",
+      "endColor": "#F0F8FF"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/Gr3Inl6"
+    }
+  }
+}
+}]
