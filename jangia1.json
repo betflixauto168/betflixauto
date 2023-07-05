@@ -1,0 +1,139 @@
+[{
+  "type": "flex",
+  "altText": "ระบบแจกเองไม่ผ่านเอเย่น",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://cdn.pic.in.th/file/picinth/S__44949512.jpeg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/VMKZzu5"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://cdn.pic.in.th/file/picinth/S__44949510.jpeg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "ME 88",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกคิตฟรี 100  เเจกฟรีไม่ต้องฝาก",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เพื่อน 616,028 ติดตาม 73,561 คน",
+                    "size": "xxs",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#228B22",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/9y0f9Ot"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับฟรี 50 ",
+          "uri": "https://lin.ee/9y0f9Ot"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#228B22",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/VMKZzu5"
+    }
+  }
+}
+}]
