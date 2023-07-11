@@ -1,0 +1,64 @@
+[{
+  "type": "flex",
+  "altText": "🧧แค่สมัครก็รับไป เลยรับได้เองได้ที่หน้าเว็บ🧧",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://sv1.picz.in.th/images/2023/06/17/ICkrPb.jpg",
+    "animated": true,
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": " BETFLIX V1",
+        "size": "xxl",
+        "align": "center",
+        "weight": "bold",
+        "decoration": "underline",
+        "offsetBottom": "sm",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "นำโค๊ดนี้มาแจ้งรับไปเลยฟรีๆ 300 เครดิต",
+        "align": "center",
+        "size": "lg",
+        "color": "#F5F5DC"
+      },
+      {
+        "type": "text",
+        "text": "COLD: KHAfwscx100frx",
+        "offsetBottom": "none",
+        "offsetEnd": "none",
+        "align": "center",
+        "offsetTop": "md",
+        "color": "#00FF7F"
+      },
+      {
+        "type": "image",
+        "url": "https://sv1.picz.in.th/images/2023/06/17/I2Fvzq.png",
+        "animated": true,
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/GflNDTj"
+        },
+        "size": "full",
+        "aspectRatio": "7:2"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#8470FF",
+      "endColor": "#483D8B"
+    }
+  }
+}
+}]
