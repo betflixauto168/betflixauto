@@ -21,7 +21,7 @@
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://lin.ee/8Dor2Vm"
+              "uri": "https://lin.ee/nD9ciVg"
             }
           }
         ]
@@ -42,7 +42,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://lin.ee/8Dor2Vm"
+                  "uri": "https://lin.ee/nD9ciVg"
                 }
               }
             ],
@@ -83,7 +83,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://lin.ee/ME3BDpk"
+                  "uri": "https://lin.ee/nD9ciVg"
                 }
               },
               {
@@ -100,7 +100,7 @@
                     "action": {
                       "type": "uri",
                       "label": "action",
-                      "uri": "https://lin.ee/8Dor2Vm"
+                      "uri": "https://lin.ee/nD9ciVg"
                     }
                   }
                 ],
@@ -109,7 +109,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://lin.ee/8Dor2Vm"
+                  "uri": "https://lin.ee/nD9ciVg"
                 }
               }
             ]
@@ -120,7 +120,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/8Dor2Vm"
+          "uri": "https://lin.ee/nD9ciVg"
         },
         "background": {
           "type": "linearGradient",
@@ -141,7 +141,7 @@
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/8Dor2Vm"
+      "uri": "https://lin.ee/nD9ciVg"
     }
   },
   "footer": {
@@ -153,7 +153,7 @@
         "action": {
           "type": "uri",
           "label": "🎁 รับทุนฟรี 🎁",
-          "uri": "https://lin.ee/8Dor2Vm"
+          "uri": "https://lin.ee/nD9ciVg"
         },
         "style": "primary",
         "color": "#551A8B"
