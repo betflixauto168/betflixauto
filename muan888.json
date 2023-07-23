@@ -1,6 +1,6 @@
 [{
   "type": "flex",
-  "altText": "เพียงแค่สมัครกฌรับได้เองเลย",
+  "altText": "เพียงแค่สมัครก็รับได้เองเลย",
   "contents": {
   "type": "bubble",
   "size": "giga",
@@ -20,14 +20,14 @@
             "action": {
               "type": "uri",
               "label": "action",
-              "uri": "https://lin.ee/84o8fTN"
+              "uri": "https://shorturl.asia/0HglO"
             }
           }
         ],
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/VMKZzu5"
+          "uri": "https://shorturl.asia/0HglO"
         }
       },
       {
@@ -46,7 +46,7 @@
                 "action": {
                   "type": "uri",
                   "label": "action",
-                  "uri": "https://lin.ee/84o8fTN"
+                  "uri": "https://shorturl.asia/0HglO"
                 }
               }
             ],
@@ -113,7 +113,7 @@
         "action": {
           "type": "uri",
           "label": "action",
-          "uri": "https://lin.ee/84o8fTN"
+          "uri": "https://shorturl.asia/0HglO"
         }
       }
     ],
@@ -121,7 +121,7 @@
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/84o8fTN"
+      "uri": "https://shorturl.asia/0HglO"
     }
   },
   "footer": {
@@ -133,7 +133,7 @@
         "action": {
           "type": "uri",
           "label": "รับฟรี 100",
-          "uri": "https://lin.ee/84o8fTN"
+          "uri": "https://shorturl.asia/0HglO"
         },
         "style": "primary",
         "color": "#00CD00"
@@ -148,7 +148,7 @@
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/84o8fTN"
+      "uri": "https://shorturl.asia/0HglO"
     }
   }
 }
