@@ -1,0 +1,94 @@
+[{
+  "type": "flex",
+  "altText": "แจกฟรีต้นเดือนรับได้รั่วๆ🎊🎊",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:2",
+        "aspectMode": "cover",
+        "url": "https://cdn.pic.in.th/file/picinth/S__45793285.jpeg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/zopSILW"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกฟรีทุกคน ไม่ต้องลุ้น",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#EEB422",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "รับเครดิตฟรีได้ทุกวันไม่มีทุนก็เล่นได้",
+            "weight": "bold",
+            "color": "#00FF00",
+            "offsetBottom": "none",
+            "offsetTop": "none",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "( 1 สิทธิ์ ต่อ 1 ท่าน )",
+            "color": "#FF0000",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/10/03/Cyya1I.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/zopSILW"
+            },
+            "animated": true
+          },
+          {
+            "type": "image",
+            "url": "https://sv1.picz.in.th/images/2021/10/03/CyyH6u.png",
+            "aspectRatio": "4:1",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/zopSILW"
+            },
+            "animated": true
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFA500",
+          "endColor": "#CD5555"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/zopSILW"
+        }
+      }
+    }
+  ]
+}
+}]
