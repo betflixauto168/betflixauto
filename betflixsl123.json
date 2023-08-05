@@ -1,0 +1,201 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://cdn.pic.in.th/file/picinth/pngglogo.png",
+        "size": "full",
+        "aspectRatio": "3:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.betflixslotonline.com/"
+        },
+        "animated": true
+      }
+    ],
+    "backgroundColor": "#000000",
+    "borderColor": "#CC33FF",
+    "borderWidth": "semi-bold"
+  },
+  "hero": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://www.betflixslotonline.com/image_betflix/free100.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "GETBET78",
+          "uri": "https://betflixslotonline.com/Rediect_Line/Betflix.html"
+        }
+      },
+      {
+        "type": "image",
+        "url": "https://s11.gifyu.com/images/ScRFF.png",
+        "size": "full",
+        "aspectRatio": "5:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.betflixslotonline.com/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "สามารถเล่นได้ทุกค่ายเกม ถอนได้ไม่จำกัด ระบบฝากถอรอัคโนมัติ รวดเร็วทันใจ เว็บคาสิโนอันดับ 1 ในไทย มั่นคงปลอดภัย",
+        "offsetTop": "none",
+        "color": "#FFFFFF",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "GETBET78",
+          "uri": "https://www.betflixslotonline.com/"
+        },
+        "offsetBottom": "xxl",
+        "wrap": true,
+        "size": "sm"
+      },
+      {
+        "type": "image",
+        "url": "https://cdn.discordapp.com/attachments/1032585710378684461/1039488787224469544/f365f7f236354217.png",
+        "size": "full",
+        "aspectRatio": "10:1",
+        "offsetTop": "sm",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.betflixslotonline.com/"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://www.betflixslotonline.com/image_betflix/9-50.jpg",
+            "action": {
+              "type": "uri",
+              "label": "GETBET78",
+              "uri": "https://www.betflixslotonline.com/"
+            },
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://www.betflixslotonline.com/image_betflix/19-100.jpg",
+            "action": {
+              "type": "uri",
+              "label": "GETBET78",
+              "uri": "https://www.betflixslotonline.com/"
+            },
+            "size": "lg"
+          },
+          {
+            "type": "image",
+            "url": "https://www.betflixslotonline.com/image_betflix/99-300.jpg",
+            "action": {
+              "type": "uri",
+              "label": "GETBET78",
+              "uri": "https://www.betflixslotonline.com/"
+            },
+            "size": "lg"
+          }
+        ],
+        "offsetTop": "lg",
+        "action": {
+          "type": "uri",
+          "label": "GETBET78",
+          "uri": "https://www.betflixslotonline.com/"
+        },
+        "spacing": "none",
+        "borderWidth": "light",
+        "borderColor": "#CC33FF"
+      }
+    ],
+    "paddingBottom": "xl",
+    "backgroundColor": "#000000",
+    "borderColor": "#CC33FF",
+    "borderWidth": "semi-bold",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://www.betflixslotonline.com/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "image",
+        "url": "https://s11.gifyu.com/images/ScR4r.png",
+        "size": "full",
+        "aspectRatio": "29:4",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://betflixslotonline.com/Rediect_Line/Betflix.html"
+        },
+        "animated": true
+      },
+      {
+        "type": "image",
+        "url": "https://s11.gifyu.com/images/ScRin.png",
+        "size": "full",
+        "aspectRatio": "29:4",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.betflixslotonline.com/"
+        },
+        "animated": true
+      },
+      {
+        "type": "image",
+        "url": "https://s11.gifyu.com/images/ScRFn.png",
+        "size": "full",
+        "aspectRatio": "29:4",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://www.betflixslotonline.com/"
+        },
+        "animated": true
+      }
+    ],
+    "backgroundColor": "#02f486",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "paddingAll": "lg",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://www.betflixslotonline.com/"
+    },
+    "borderColor": "#CC33FF",
+    "borderWidth": "bold"
+  },
+  "styles": {
+    "body": {
+      "backgroundColor": "#02f486",
+      "separator": true
+    }
+  }
+}
+}]
