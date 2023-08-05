@@ -6,13 +6,13 @@
   "size": "giga",
   "hero": {
     "type": "image",
-    "url": "https://www.img.in.th/images/b39d93e25e8418a93682c2fbbc301fd9.png",
+    "url": "https://cdn.pic.in.th/file/picinth/S__45908006.jpeg",
     "margin": "xxl",
     "size": "full",
     "action": {
       "type": "uri",
       "label": "action",
-      "uri": "https://lin.ee/lPb0Yam"
+      "uri": "https://lin.ee/EAi5ePD"
     }
   },
   "body": {
@@ -43,7 +43,7 @@
             "action": {
               "type": "uri",
               "label": "เครดิตฟรี",
-              "uri": "https://lin.ee/lPb0Yam"
+              "uri": "https://lin.ee/EAi5ePD"
             },
             "height": "md",
             "style": "secondary",
@@ -61,5 +61,6 @@
       "centerColor": "#9933CC"
     }
   }
+}
 }
 }]
