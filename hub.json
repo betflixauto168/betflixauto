@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "แจกทุกวัน รีบๆเลย รอแจกอยู่น้าาา💖",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.pic.in.th/file/picinth/S__46063740_0.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/cY8ubIY"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 50 เครดิต",
+        "size": "xl",
+        "align": "center",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "โบนัสสูงสุด250%",
+        "size": "lg",
+        "align": "center"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/cY8ubIY"
+            },
+            "style": "primary",
+            "margin": "xs"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://bit.ly/424rDME"
+            },
+            "style": "primary",
+            "margin": "xs"
+          }
+        ],
+        "margin": "md"
+      }
+    ]
+  }
+}
+}]
