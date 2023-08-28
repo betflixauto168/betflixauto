@@ -1,0 +1,144 @@
+[{
+  "type": "flex",
+  "altText": "🐲Chinatown168 รับง่ายไม่ต้องฝาก",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.pic.in.th/file/picinth/S__46391307.jpeg",
+    "size": "full",
+    "aspectMode": "cover",
+    "action": {
+      "type": "uri",
+      "uri": "https://lin.ee/XyGQo5n"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจก 50 เครดิตฟรี ",
+        "weight": "bold",
+        "size": "xxl",
+        "align": "center",
+        "color": "#E0FFFF"
+      },
+      {
+        "type": "text",
+        "text": "รับง่าย ไม่มีกิจกรรม",
+        "align": "center",
+        "color": "#F8F8FF"
+      },
+      {
+        "type": "box",
+        "layout": "baseline",
+        "margin": "md",
+        "contents": [
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "icon",
+            "size": "sm",
+            "url": "https://scdn.line-apps.com/n/channel_devcenter/img/fx/review_gold_star_28.png"
+          },
+          {
+            "type": "text",
+            "text": "5.0",
+            "size": "sm",
+            "color": "#999999",
+            "margin": "md",
+            "flex": 0,
+            "weight": "bold"
+          }
+        ],
+        "justifyContent": "center"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "margin": "lg",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "baseline",
+            "spacing": "sm",
+            "contents": [
+              {
+                "type": "text",
+                "text": "เครดิตฟรี รับได้ทุกวัน ",
+                "wrap": true,
+                "color": "#E0FFFF",
+                "size": "md",
+                "flex": 5,
+                "weight": "bold",
+                "align": "center"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0033",
+      "endColor": "#CC0000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "spacing": "sm",
+    "contents": [
+      {
+        "type": "button",
+        "style": "primary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/XyGQo5n"
+        }
+      },
+      {
+        "type": "button",
+        "style": "secondary",
+        "height": "sm",
+        "action": {
+          "type": "uri",
+          "label": "สมัครสมาชิก",
+          "uri": "https://betflixautox168.com/"
+        }
+      }
+    ],
+    "flex": 0,
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FF0033"
+    }
+  }
+}
+}]
