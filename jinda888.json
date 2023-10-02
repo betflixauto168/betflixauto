@@ -1,0 +1,109 @@
+[{
+  "type": "flex",
+  "altText": "💎สมัครใหม่รับไปเลยทุนฟรี 50✔",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.pic.in.th/file/picinth/line_oa_chat_231002_081809.jpeg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/tw6ABm42"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "ＫＴＶＣ４",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "🎁เฮียแจกเอง ไม่ต้องกลัวไม่ได้🐲",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "😎ทุนเฮีย มี  500,000 บาท ด่วนเลย",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/tw6ABm42"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#DAA520",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/evvQlQZ"
+        },
+        "style": "primary",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อเฮียหนวด",
+          "uri": "https://lin.ee/evvQlQZ"
+        },
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#DAA520"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/tw6ABm42"
+    }
+  }
+}
+}]
