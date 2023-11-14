@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "📌เครดิตฟรี📲เพียงแค่เป็นสมาชิกกับเรา",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__47857729.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/up0ufIB"
+    },
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "MK888เครดิตฟรี",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#EEC900"
+      },
+      {
+        "type": "text",
+        "text": "👇ไม่ต้องฝากเงิน เพียงเเจ้งโค๊ค👇",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "text",
+        "text": "คัดลอก: AfiFeer100-f",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎰 เเจ้งโค๊คฟรี 🎰",
+          "uri": "https://lin.ee/up0ufIB"
+        },
+        "margin": "lg",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#32CD32"
+    }
+  }
+}
+}]
