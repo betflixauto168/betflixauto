@@ -1,0 +1,87 @@
+[{
+  "type": "flex",
+  "altText": "🎉ปันโปร66แจกเครดิตฟรีต้อนรับปีใหม่ 40เครดิตมารับไปเลย🎉",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/line_oa_chat_240102_221155.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/W9isBae"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่วันนี้รับฟรี  40 เครดิต",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/W9isBae"
+        },
+        "color": "#1C1C1C",
+        "weight": "bold",
+        "size": "md"
+      },
+      {
+        "type": "text",
+        "text": "เพียงสมัครสมาชิกเท่านั้น",
+        "align": "center",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/W9isBae"
+        },
+        "color": "#1C1C1C",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://heylink.me/SPINIXC4/"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถาม",
+              "uri": "https://heylink.me/SPINIXC4/"
+            },
+            "style": "primary",
+            "margin": "md"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#3CB371",
+      "centerColor": "#FFD700"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/W9isBae"
+    }
+  }
+}
+}]
