@@ -1,0 +1,65 @@
+[{
+  "type": "flex",
+  "altText": "🎰แจกเคดิตฟรี 300 จำนวนจำกัด",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/line_oa_chat_240124_175429.jpeg",
+    "margin": "xxl",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/ifgpo3w"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🚩รับฟรี 300 ทำยอด 700 ถอนได้ 300 ",
+        "contents": [],
+        "align": "center",
+        "weight": "bold",
+        "size": "lg",
+        "color": "#CCFF00"
+      },
+      {
+        "type": "text",
+        "text": "รับง่าย ฝาก-ถอนเร็ว💨💰",
+        "align": "center",
+        "color": "#CCFFFF"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เครดิตฟรี",
+              "uri": "https://lin.ee/ifgpo3w"
+            },
+            "height": "md",
+            "style": "secondary",
+            "margin": "lg",
+            "color": "#CCCCFF"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#d38312",
+      "endColor": "#a83279",
+      "centerColor": "#a83279"
+    }
+  }
+}
+}]
