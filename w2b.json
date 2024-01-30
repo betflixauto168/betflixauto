@@ -1,0 +1,59 @@
+[{
+  "type": "flex",
+  "altText": "💰เครดิตฟรีรับง่ายๆ แค่สมัครแล้วก็กดรับเองได้เลย🐲",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__48930885.jpeg",
+    "size": "full",
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัคร แจ้งแอดมิน รับโค๊ดเครดิตฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FF9933"
+      },
+      {
+        "type": "text",
+        "text": "🎉ขั้นตอนง่ายๆ รับได้เลย 50 เครดิตทันที🎉",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉รับโค๊ดเครดิตฟรี👈",
+              "uri": "https://lin.ee/bfKEi5q"
+            },
+            "color": "#CCFFFF",
+            "style": "secondary",
+            "margin": "xl",
+            "height": "md"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000099"
+    }
+  }
+}
+}]
