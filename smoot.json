@@ -1,0 +1,70 @@
+[{
+  "type": "flex",
+  "altText": "🎊ทดลองเล่น รับเองได้เลยไม่ต้องฝากก่อน♻",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/line_oa_chat_240205_213425.jpeg",
+    "size": "full"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎰 SMOOTH123 🎰",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA"
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 5 ไม่ต้องทำกิจกรรม",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/xs44HTc"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://heylink.me/DOWNTOWN888/"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    }
+  }
+}
+}]
