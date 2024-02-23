@@ -1,0 +1,88 @@
+[{
+  "type": "flex",
+  "altText": "🍺แจกโค้ดเครดิตฟรี 100 สมัครรับ ได้เลยไม่ต้องฝาก🍺",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/line_oa_chat_240223_201241.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/VbXLPaa"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "DINOเครดิตฟรี",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#EEC900",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/VbXLPaa"
+        }
+      },
+      {
+        "type": "text",
+        "text": "👇ไม่ต้องฝากเงิน เพียงเเจ้งโค๊ค👇",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "margin": "sm",
+        "color": "#E8E8E8",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/VbXLPaa"
+        }
+      },
+      {
+        "type": "text",
+        "text": "คัดลอก: DNPRO-12DEC-D29",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "sm",
+        "color": "#E8E8E8",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/VbXLPaa"
+        }
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎰 เเจ้งโค๊คฟรี 🎰",
+          "uri": "https://lin.ee/VbXLPaa"
+        },
+        "margin": "lg",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#4F94CD"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/VbXLPaa"
+    }
+  }
+}
+}]
