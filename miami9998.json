@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "(ด่วน!! เฉพาะ1,000ท่านแรกเท่านั้น‼)",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://i.postimg.cc/XJmfLT5J/photo-2024-02-23-20-42-24.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/AKCAsDf"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "💰  MIAMI999 📢",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/AKCAsDf"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 50 ไม่ต้องฝากเงินก่อน",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/AKCAsDf"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://lin.ee/AKCAsDf"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/AKCAsDf"
+    }
+  }
+}
+}]
