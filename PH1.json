@@ -1,0 +1,87 @@
+[{
+  "type": "flex",
+  "altText": "👍แค่สมัครก็ รับไปเลย ฟรีๆ 50",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "size": "full",
+        "aspectRatio": "2:3",
+        "aspectMode": "cover",
+        "url": "https://img2.pic.in.th/pic/line_oa_chat_240319_055543.jpeg",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/WNpivqr"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "spacing": "sm",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกฟรีทุกคน ไม่ต้องลุ้น",
+            "wrap": true,
+            "weight": "bold",
+            "size": "xl",
+            "color": "#EEB422",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "รับเครดิตฟรีได้ทุกวันไม่มีทุนก็เล่นได้",
+            "weight": "bold",
+            "color": "#00FF00",
+            "offsetBottom": "none",
+            "offsetTop": "none",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "( 1 สิทธิ์ ต่อ 1 ท่าน )",
+            "color": "#FF0000",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/-10b1a4a9f827c6154.png",
+            "size": "full",
+            "aspectRatio": "2:1",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/WNpivqr"
+            }
+          },
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/5d674a64d6f094eb596c7fc7159e4739.png",
+            "aspectRatio": "4:1",
+            "size": "full",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/WNpivqr"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#EEB422",
+          "endColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]
