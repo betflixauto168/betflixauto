@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "👉แจกฟรี 50 เครดิต (ไม่มีกิจกรรม) !!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/8_069a80860f5befc58.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/MiNYu38"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รับฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "3xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "text",
+        "text": "ได้ทั้งเดือน 50 เครดิต ฟรี ฟรีเลยจ้า!!",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/MiNYu38"
+            },
+            "style": "primary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://auto.lagalaxy191.ltd/login"
+            },
+            "margin": "md",
+            "style": "primary"
+          }
+        ],
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#1C1C1C",
+      "endColor": "#BA55D3",
+      "centerColor": "#BA55D3"
+    }
+  }
+}
+}]
