@@ -1,0 +1,72 @@
+[{
+  "type": "flex",
+  "altText": "คูปอง 💯 บ.❗❗ กดรับได้แล้วตอนนี้ ❗❗",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__50552996.jpg",
+    "margin": "none",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/OdnPB78"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "📢 แจกฟรีเครดิต ถอนได้จริง ✅",
+        "weight": "bold",
+        "size": "md",
+        "align": "center",
+        "color": "#FFFF00"
+      },
+      {
+        "type": "text",
+        "text": "📌สมัครรับได้เลยไม่ต้องฝากก่อน💸",
+        "align": "center",
+        "color": "#FFFF00"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/OdnPB78"
+            },
+            "style": "secondary",
+            "margin": "lg"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://downtown888.com/"
+            },
+            "style": "secondary"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#7B68EE",
+      "centerColor": "#7B68EE"
+    }
+  }
+}
+}]
