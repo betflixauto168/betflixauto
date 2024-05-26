@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "คุณได้รับเครดิตฟรี 100 ตอนนี้กดเลย",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/F0ETLPIakAAwFEn.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gpXHBJ5"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "แจกเครดิตฟรี 100",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ฟรี ทุกยูส รับทุกคน",
+            "align": "center",
+            "color": "#FFFFFF",
+            "size": "xl",
+            "weight": "regular",
+            "wrap": false
+          },
+          {
+            "type": "text",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "md",
+            "color": "#FFFFFF",
+            "text": "* แค่สมัคร รับฟรีทันที 100 เครดิต *"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#000000",
+          "centerColor": "#490000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gpXHBJ5"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/gpXHBJ5"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#52d400"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "( เล่นได้ทุกเกมในยูสเซอร์เดียว )",
+              "uri": "https://lin.ee/gpXHBJ5"
+            },
+            "color": "#FFFFFF",
+            "height": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#090700",
+          "centerColor": "#090700"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gpXHBJ5"
+        }
+      }
+    }
+  ]
+}
+}]
