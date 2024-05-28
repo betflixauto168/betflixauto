@@ -1,0 +1,97 @@
+[{
+  "type": "flex",
+  "altText": "!เว็บนี้แจกเครดิตฟรี 100 บาท ตลอด 24 ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/101dc98020b4a5dfa.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/gh88TXH"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "PG SLOT GAME 999",
+        "size": "xl",
+        "align": "center",
+        "color": "#77681e",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "weight": "bold",
+        "margin": "none",
+        "decoration": "underline"
+      },
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100฿",
+        "size": "xxl",
+        "align": "center",
+        "color": "#f83600",
+        "margin": "none",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "( ทำยอด 600 บาท ถอนเงินสดได้ทันที )",
+        "align": "center",
+        "color": "#77681e",
+        "margin": "none",
+        "size": "md",
+        "weight": "bold",
+        "style": "italic"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี100฿",
+              "uri": "https://lin.ee/gh88TXH"
+            },
+            "style": "primary",
+            "color": "#f83600"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://365thsport.vip/register/general"
+            },
+            "color": "#33FF33",
+            "style": "secondary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "md"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/gh88TXH"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "350deg",
+      "startColor": "#77681e",
+      "endColor": "#22c399",
+      "centerColor": "#fdbb2d"
+    }
+  }
+}
+}]
