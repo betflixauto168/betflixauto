@@ -1,0 +1,159 @@
+[{
+  "type": "flex",
+  "altText": "💥กรอกโค๊ดจาก SMS รับได้เลยไม่ต้องทำกิจกรรม",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__50970634_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/P6FtycV"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ย่ำแจกฟรี ทำยอด 400 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ถอนได้สูงสุด 100 บาท",
+            "align": "center",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/P6FtycV"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF69B4"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/P6FtycV"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.postimg.cc/7LBQhNWY/2.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/P6FtycV"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สนุก รวดเร็ว จ่ายจริง บริการดี",
+            "weight": "bold",
+            "size": "lg",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ครบวงจร สล็อต ยิงปลา คาสิโน",
+            "size": "md",
+            "margin": "sm",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโบนัส",
+                  "uri": "https://downtown888.com/"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF69B4"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/P6FtycV"
+        }
+      }
+    }
+  ]
+}
+}]
