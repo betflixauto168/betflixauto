@@ -1,75 +1,144 @@
 [{
   "type": "flex",
-  "altText": "⛔ ลงทะเบียน รับฟรี 50 ⛔",
+  "altText": "สมัครสมาชิกใหม่รับไปเลย 100",
   "contents": {
-  "type": "bubble",
-  "size": "giga",
-  "hero": {
-    "type": "image",
-    "url": "https://sv1.picz.in.th/images/2023/05/30/FVzcXJ.jpg",
-    "size": "full",
-    "action": {
-      "type": "uri",
-      "label": "action",
-      "uri": "https://lin.ee/vsVfQOa"
-    }
-  },
-  "body": {
-    "type": "box",
-    "layout": "vertical",
-    "contents": [
-      {
-        "type": "text",
-        "text": "เว็บตรง เเจกหนัก เเจกจริง",
-        "size": "xl",
-        "weight": "bold",
-        "align": "center",
-        "color": "#FFD700"
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__50970634_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "postback",
+          "label": "action",
+          "data": "hello"
+        }
       },
-      {
-        "type": "text",
-        "text": "รับฟรี 50 บาท เข้าบัญชี ทันที",
-        "size": "xl",
-        "weight": "bold",
-        "align": "center",
-        "color": "#FFD700"
-      },
-      {
+      "body": {
         "type": "box",
-        "layout": "horizontal",
+        "layout": "vertical",
         "contents": [
           {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "ลงทะเบียน",
-              "uri": "https://lin.ee/vsVfQOa"
-            },
-            "margin": "md",
-            "color": "#FFD700",
-            "style": "secondary"
+            "type": "text",
+            "text": "ย่ำแจกฟรี ทำยอด 400 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FF9900"
           },
           {
-            "type": "button",
-            "action": {
-              "type": "uri",
-              "label": "สมัคร",
-              "uri": "https://lin.ee/vsVfQOa"
-            },
-            "margin": "md",
-            "color": "#FFD700",
-            "style": "secondary"
+            "type": "text",
+            "text": "ถอนได้สูงสุด 100 บาท",
+            "align": "center",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/MwXhK0r"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              }
+            ],
+            "margin": "lg"
           }
         ],
-        "margin": "md"
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF69B4"
+        }
       }
-    ],
-    "background": {
-      "type": "linearGradient",
-      "angle": "0deg",
-      "startColor": "#9400D3",
-      "endColor": "#9370DB"
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://i.postimg.cc/7LBQhNWY/2.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สนุก รวดเร็ว จ่ายจริง บริการดี",
+            "weight": "bold",
+            "size": "lg",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ครบวงจร สล็อต ยิงปลา คาสิโน",
+            "size": "md",
+            "margin": "sm",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโบนัส",
+                  "uri": "https://downtown888.com/"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#FF69B4"
+        }
+      }
     }
-  }
+  ]
 }
 }]
