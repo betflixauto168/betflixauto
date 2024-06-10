@@ -1,0 +1,97 @@
+[{
+  "type": "flex",
+  "altText": "พี่เว็ปนี้กดรับฟรีได้เองเลย100",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/promotion001-1381125cf73c2316b.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/rXZqMpT"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "แจกฟรี 100 เครดิต",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "กดรับคูปอง ได้เองหน้าไลน์",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "(  รีบเลย เริ่มแจกแล้วตอนนี้  )",
+            "align": "center",
+            "color": "#FFFFE0",
+            "size": "sm"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#18002b",
+          "endColor": "#000000",
+          "centerColor": "#2e0053"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/rXZqMpT"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับคูปองเครดิตฟรี",
+              "uri": "https://lin.ee/rXZqMpT"
+            },
+            "style": "secondary",
+            "color": "#00EE00"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#4b0088",
+          "endColor": "#18002b",
+          "centerColor": "#0b0014"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/rXZqMpT"
+        }
+      }
+    }
+  ]
+}
+}]
