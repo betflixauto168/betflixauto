@@ -1,0 +1,140 @@
+[{
+  "type": "flex",
+  "altText": "!แจกเครดิตฟรี 300฿ บาท !แจกฟรีแบบไม่ต้องฝาก !แจกตลอด 24ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/2fe7ab5df42026be1c06488dcaae3a91.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/r0bQIti"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/991151334d4e108a74.png",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "UFA PG",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกเครดิตฟรี 300  เเจกฟรีไม่ต้องฝาก",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เพื่อน 316,028 ติดตาม 196,548 คน",
+                    "size": "xxs",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#CD950C",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/r0bQIti"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เครดิตฟรี 300 ฿ บาท",
+          "uri": "https://lin.ee/r0bQIti"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#CD950C",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "ทางเข้าเล่น",
+      "uri": "https://lin.ee/r0bQIti"
+    }
+  }
+}
+}]
