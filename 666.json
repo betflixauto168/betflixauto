@@ -1,0 +1,84 @@
+[{
+  "type": "flex",
+  "altText": "!เพียงแคปรูปภาพมา รับเลย 59฿ เครดิต แจกกันตลอด 24ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/293edb78a07c029fc.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/gm065Vk"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เพียงแคปรูปภาพมา รับเลย 59 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FF0000",
+        "size": "lg",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/gm065Vk"
+        }
+      },
+      {
+        "type": "text",
+        "text": "เว็ปพนันเดิมพันจากต่างประเทศ การันตีความมั่นคง",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#3333FF",
+        "margin": "md",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/gm065Vk"
+        }
+      },
+      {
+        "type": "text",
+        "text": " ♦️ครบจบที่เว็บเดียว♦️ฝาก~ถอน ขั้นต่ำเพียง1บาท",
+        "align": "center",
+        "color": "#FF0000",
+        "size": "sm",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/gm065Vk"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อรับเครดิตฟรี 59฿",
+              "uri": "https://lin.ee/gm065Vk"
+            },
+            "style": "secondary",
+            "color": "#7FFF00",
+            "margin": "none"
+          }
+        ],
+        "margin": "sm",
+        "spacing": "none"
+      }
+    ],
+    "backgroundColor": "#FFCC33"
+  }
+}
+}]
