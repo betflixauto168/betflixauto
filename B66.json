@@ -1,0 +1,96 @@
+[{
+  "type": "flex",
+  "altText": "!แค่สมัครสมาชิก รับเครดิตฟรี ทันที 200฿ บาท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/-127260f53164d178cf.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เว็บไซต์",
+      "uri": "https://lin.ee/uNRrgVN"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "AOX BET 666",
+        "size": "xxl",
+        "align": "center",
+        "color": "#FFB90F",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "weight": "bold",
+        "margin": "none",
+        "decoration": "underline"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกรับ 200 เครดิต",
+        "size": "xl",
+        "align": "center",
+        "color": "#f83600",
+        "margin": "none",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "color": "#FFB90F",
+        "margin": "none",
+        "size": "xs",
+        "weight": "bold",
+        "text": "(สำหรับลูกค้าใหม่เท่านั้น 1User สามารถรับได้ 1ครั้ง)"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/uNRrgVN"
+            },
+            "style": "secondary",
+            "color": "#33FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/uNRrgVN"
+            },
+            "color": "#f83600",
+            "style": "primary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "md"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "เว็บไซต์",
+      "uri": "https://lin.ee/uNRrgVN"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "270deg",
+      "startColor": "#cd00ff",
+      "endColor": "#8f25e0",
+      "centerColor": "#000000"
+    }
+  }
+}
+}]
