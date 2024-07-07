@@ -1,0 +1,141 @@
+[{
+  "type": "flex",
+  "altText": "📢สมัครใหม่ตอนนี้รับไป เลย ฟรี💯",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/502d58a9b5e445c96b.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/BDu3KYL"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 100 รับด่วน !!",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "แค่สมัครสมาชิก ไม่ต้อฝาก ไม่แชร์",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/BDu3KYL"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#9400D3"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/BDu3KYL"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-18876c137dd59720d9.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/BDu3KYL"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรมาแรงที่สุด ในตอนนี้",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "รับได้แล้ว วันนี้สมัครเลย",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปร",
+                  "uri": "https://lin.ee/BDu3KYL"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#9400D3"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/BDu3KYL"
+        }
+      }
+    }
+  ]
+}
+}]
