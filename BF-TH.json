@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "📢ง่ายๆแค่สมัครก็รับได้เลยไม่ต้องแชร์✔",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__51789849.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/pNVWkxq"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกทุกวัน รับได้ไม่อั้น",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ฟรี 100 เครดิตแจกวันละ 500 User",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "style": "italic",
+            "color": "#FFF5EE",
+            "decoration": "underline"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/pNVWkxq"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ต่อ",
+                  "uri": "https://lin.ee/pNVWkxq"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000066",
+          "endColor": "#000066",
+          "centerColor": "#1C1C1C"
+        }
+      }
+    }
+  ]
+}
+}]
