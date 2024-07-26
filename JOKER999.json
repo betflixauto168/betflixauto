@@ -1,0 +1,153 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100฿ บาท ให้สมาชิกใหม่ทุกUser",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__52109327.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "http://linecorp.com/",
+          "altUri": {
+            "desktop": "https://lin.ee/zo2efgr"
+          }
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ย่ำแจกฟรี ทำยอด 300 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ถอนได้สูงสุด 100 บาท",
+            "align": "center",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/zo2efgr"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#330099"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__52109328.jpg",
+        "size": "full",
+        "backgroundColor": "#00008B",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/zo2efgr"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สนุก รวดเร็ว จ่ายจริง บริการดี",
+            "weight": "bold",
+            "size": "lg",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ครบวงจร สล็อต ยิงปลา คาสิโน",
+            "size": "md",
+            "margin": "sm",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://downtown888.com/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโบนัส",
+                  "uri": "https://downtown888.com/"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#330099"
+        }
+      }
+    }
+  ]
+}
+}]
