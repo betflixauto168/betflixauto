@@ -1,0 +1,187 @@
+[{
+  "type": "flex",
+  "altText": "เว็ปนี้แค่สมัครยูสก็รับฟรี100เครดิต",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/line_oa_chat_240226_154121.jpeg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/L6vCZgO"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/L6vCZgO"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/419617759_122127678218089602_1926917869758952143_n.jpeg",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/L6vCZgO"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "offsetTop": "xl",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/L6vCZgO"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "เว็ปใหญ่ เขาให้จริง",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "xl"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  }
+                ],
+                "size": "sm",
+                "wrap": true,
+                "offsetTop": "none",
+                "offsetStart": "xxl"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ แจกเครดิตฟรี 100 เครดิต",
+                    "size": "md",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "offsetStart": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "❎ ไม่ต้องฝากก่อน",
+                    "color": "#FFB90F",
+                    "weight": "bold",
+                    "offsetStart": "lg"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "รับกิจกรรมแล้ว 51,628 ติดตาม 40,561 คน",
+                    "color": "#ececec",
+                    "weight": "bold",
+                    "size": "xxs",
+                    "margin": "md"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#616161"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/L6vCZgO"
+        }
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/L6vCZgO"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/L6vCZgO"
+        },
+        "style": "primary",
+        "color": "#3fd40c"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/L6vCZgO"
+    }
+  }
+}
+}]
