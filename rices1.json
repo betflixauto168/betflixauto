@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "กดที่รูปสมัครยูส รับเลยเครดิตฟรี 50.-",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/photo_--_--896149f25e73e0e7.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cGmEm3d"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 50 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#ffffff"
+          },
+          {
+            "type": "text",
+            "text": "เพียงสมัคร รับเครดิตไปเลย",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/cGmEm3d"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/cGmEm3d"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#503000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cGmEm3d"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/photo_--_--291e1432336a2bf9.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cGmEm3d"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็ปตรง ลิขสิทธิ์แท้",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#ffffff"
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 เพียงสมัคร",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็ปไซต์",
+                  "uri": "https://auto.betflixauto88.vip/login"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://auto.betflixauto88.vip/login"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#503000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflixauto88.vip/login"
+        }
+      }
+    }
+  ]
+}
+}]
