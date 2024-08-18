@@ -1,0 +1,63 @@
+[{
+  "type": "flex",
+  "altText": "📷 แคปภาพ แจ้งรับได้เลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__52731941_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/dYtkheP"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "📷 แคปภาพนี้ แจ้งรับได้เลย",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "color": "#FF9933"
+      },
+      {
+        "type": "text",
+        "text": "🎉ขั้นตอนง่ายๆ รับได้เลย 100 เครดิตทันที🎉",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFCC00"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "👉รับโค๊ดเครดิตฟรี👈",
+              "uri": "https://lin.ee/dYtkheP"
+            },
+            "color": "#CCFFFF",
+            "style": "secondary",
+            "margin": "xl",
+            "height": "md"
+          }
+        ]
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#A020F0"
+    }
+  }
+}
+}]
