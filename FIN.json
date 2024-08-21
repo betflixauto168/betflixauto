@@ -1,0 +1,87 @@
+[{
+  "type": "flex",
+  "altText": "เพียงสมัครสมาชิก รับทันที!! 100฿ บาท",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/dd4493cdaca246759a2ba95aea17eb5b.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/POoguCq"
+        },
+        "margin": "none"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "FIN 9 9 9 GAME",
+            "weight": "bold",
+            "align": "center",
+            "color": "#ffffff",
+            "margin": "none",
+            "size": "xxl",
+            "action": {
+              "type": "uri",
+              "label": "ทางเข้าเล่น",
+              "uri": "https://lin.ee/POoguCq"
+            }
+          },
+          {
+            "type": "text",
+            "text": "\"เพียงสมัครสมาชิก\" (รับทันที!! 100฿ บาท)",
+            "align": "center",
+            "color": "#FFFF00",
+            "size": "md",
+            "margin": "none",
+            "offsetTop": "3px",
+            "action": {
+              "type": "uri",
+              "label": "ทางเข้าเล่น",
+              "uri": "https://lin.ee/POoguCq"
+            }
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี 100฿ บาท",
+                  "uri": "https://lin.ee/POoguCq"
+                },
+                "style": "secondary",
+                "margin": "sm",
+                "color": "#4ee72d"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "endColor": "#ffffff",
+          "centerColor": "#e34d4d",
+          "startColor": "#a60b0b"
+        },
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/POoguCq"
+        }
+      }
+    }
+  ]
+}
+}]
