@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "เครดิตฟรี50",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/317364055_852173192525484_1128318298567341709_n.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/prs747"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 50 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#ffffff"
+          },
+          {
+            "type": "text",
+            "text": "เพียงสมัคร รับเครดิตไปเลย",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://bit.ly/prs747"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://bit.ly/prs747"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#0000CD",
+          "endColor": "#0000CD",
+          "centerColor": "#1E90FF"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/prs747"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/pag3.png",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/prs747"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็ปตรง ลิขสิทธิ์แท้",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#ffffff"
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 เพียงสมัคร",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็ปไซต์",
+                  "uri": "https://bit.ly/prs747"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://bit.ly/prs747"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#0000CD",
+          "endColor": "#0000CD",
+          "centerColor": "#1E90FF"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://bit.ly/prs747"
+        }
+      }
+    }
+  ]
+}
+}]
