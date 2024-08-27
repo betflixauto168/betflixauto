@@ -1,0 +1,92 @@
+[{
+  "type": "flex",
+  "altText": "สมัครสมาชิกใหม่ วันนี้! รับเครดิตฟรี 100฿บาท ทันที!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/p-1.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "หน้าหลัก",
+      "uri": "https://lin.ee/RYLdnmX"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "align": "start",
+        "weight": "bold",
+        "color": "#FFD700",
+        "size": "xl",
+        "text": "🔥 LAVA1688 🔥",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "หน้าหลัก",
+          "uri": "https://lin.ee/RYLdnmX"
+        }
+      },
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรีสมาชิกใหม่",
+        "size": "xl",
+        "color": "#ffffff",
+        "margin": "none",
+        "wrap": true,
+        "align": "center",
+        "weight": "bold",
+        "action": {
+          "type": "uri",
+          "label": "หน้าหลัก",
+          "uri": "https://lin.ee/RYLdnmX"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี 100฿",
+              "uri": "https://lin.ee/RYLdnmX"
+            },
+            "style": "secondary",
+            "color": "#7FFF00",
+            "margin": "none"
+          }
+        ],
+        "margin": "sm",
+        "spacing": "none",
+        "backgroundColor": "#000000"
+      },
+      {
+        "type": "text",
+        "text": "( สมัครสมาชิก วันนี้! รับ 100฿ ทันที )",
+        "align": "end",
+        "color": "#FFD700",
+        "size": "md",
+        "margin": "xs",
+        "action": {
+          "type": "uri",
+          "label": "สมัคร",
+          "uri": "https://game.betflik878.com/register/general"
+        }
+      }
+    ],
+    "backgroundColor": "#980a0a",
+    "action": {
+      "type": "uri",
+      "label": "หน้าหลัก",
+      "uri": "https://lin.ee/RYLdnmX"
+    }
+  }
+}
+}]
