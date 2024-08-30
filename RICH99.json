@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "แคปภาพ แจ้งรับได้เลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-1_04465dc1b47636f16.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/koz5VSN"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รับฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "3xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "text",
+        "text": "ได้ทั้งเดือน 100 เครดิต ฟรี ฟรีเลยจ้า!!",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/koz5VSN"
+            },
+            "style": "primary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://downtown888.com/"
+            },
+            "margin": "md",
+            "style": "primary"
+          }
+        ],
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#CC0000",
+      "endColor": "#CC0000",
+      "centerColor": "#FF0000"
+    }
+  }
+}
+}]
