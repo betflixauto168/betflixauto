@@ -1,0 +1,162 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100 บาท ถอนได้เงินจริง",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/2336aad98f10b0410.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/B00XbMG"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/0510982d04c376ed0e339e314d723a69.jpg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "LUCA BET 168",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "  "
+                  },
+                  {
+                    "type": "span",
+                    "text": "แจกเครดิตฟรี",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#b0b0b0"
+                  },
+                  {
+                    "type": "span",
+                    "text": " รับฟรี",
+                    "size": "sm",
+                    "color": "#b0b0b0",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "span",
+                    "text": " 100",
+                    "size": "xl",
+                    "color": "#b0b0b0",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "span",
+                    "text": "บาท",
+                    "size": "sm",
+                    "color": "#b0b0b0",
+                    "weight": "bold"
+                  }
+                ],
+                "size": "md",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "( เครดิตฟรี ถอนได้เงินจริง )",
+                    "size": "sm",
+                    "color": "#FFB90F",
+                    "weight": "bold",
+                    "margin": "none"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "none"
+              }
+            ]
+          }
+        ],
+        "spacing": "lg",
+        "paddingAll": "20px",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/B00XbMG"
+        },
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#a8000b"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับฟรี 100 บาท",
+          "uri": "https://lin.ee/B00XbMG"
+        },
+        "color": "#FFB90F",
+        "style": "secondary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/B00XbMG"
+    }
+  }
+}
+}]
