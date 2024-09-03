@@ -1,0 +1,198 @@
+[{
+  "type": "flex",
+  "altText": "กดเลยได้ฟรี100ชดเชยระบบอัปเดท",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Fi-Z5XzagAY-M45.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/n0x1GR0"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n0x1GR0"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/r13V6mDo-6VQFRrxteT_PV2RJ1OZuCtG8lhMtoke41Mp1WaYyRDlbQ9BsnE65AuaxBot40AAiyxn9iMrzC-liWsfitUx_xpsZToWuLusbF0SZS6y-xtm5PLIhHM27Vr0.jpg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "offsetTop": "xxl"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "รับฟรี 100 บาท",
+                    "weight": "bold",
+                    "color": "#eec91e",
+                    "size": "xxl"
+                  }
+                ],
+                "size": "xxs",
+                "wrap": true,
+                "offsetStart": "none",
+                "align": "center"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "❌ แค่สมัคร ไม่ต้องใช้เงินสักบาท",
+                    "size": "sm",
+                    "color": "#ffffff",
+                    "weight": "bold",
+                    "offsetTop": "none",
+                    "offsetBottom": "none",
+                    "margin": "none"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "offsetStart": "xl",
+                "paddingAll": "md",
+                "paddingTop": "none"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ สมัคร แล้ว กดรับโค้ดฟรีได้เลย",
+                    "size": "sm",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "box",
+                    "layout": "vertical",
+                    "contents": [
+                      {
+                        "type": "text",
+                        "text": "( ยูสเซอร์เดียว เล่นได้ทุกค่ายเกม )",
+                        "color": "#e2e2e2",
+                        "size": "xxs",
+                        "weight": "bold",
+                        "position": "relative",
+                        "offsetTop": "sm",
+                        "offsetBottom": "none",
+                        "offsetStart": "xl"
+                      }
+                    ],
+                    "paddingAll": "md",
+                    "paddingTop": "md",
+                    "offsetEnd": "md"
+                  }
+                ],
+                "offsetStart": "xl",
+                "paddingAll": "md",
+                "paddingTop": "md"
+              }
+            ],
+            "offsetTop": "none",
+            "offsetBottom": "none",
+            "offsetStart": "none",
+            "offsetEnd": "none",
+            "paddingAll": "none",
+            "paddingEnd": "none",
+            "paddingStart": "none",
+            "paddingBottom": "none",
+            "paddingTop": "none"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#ba0e0e"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n0x1GR0"
+        },
+        "offsetTop": "none"
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/n0x1GR0"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับโค้ดเครดิตฟรี",
+          "uri": "https://lin.ee/n0x1GR0"
+        },
+        "style": "primary",
+        "color": "#00CD00",
+        "offsetTop": "none",
+        "offsetEnd": "none",
+        "offsetStart": "none",
+        "offsetBottom": "none"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/n0x1GR0"
+    }
+  }
+}
+}]
