@@ -1,0 +1,151 @@
+[{
+  "type": "flex",
+  "altText": "เห็นรูปนี้แคปส่ง รับฟรี50บาท ส่งกดเครดิตฟรี",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/1666451934230.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/sjSZ2Lw"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เห็นโพสนี้ รับฟรี 50 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ไม่ต้องฝาก ถอนได้จริง",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/sjSZ2Lw"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#01e200"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/sjSZ2Lw"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#534200"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/sjSZ2Lw"
+        }
+      },
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://lin.ee/sjSZ2Lw"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/321236788_544048420964398_263124.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/sjSZ2Lw"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นแนะนำ",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "แจกเว็ปนำเล่น พร้อมช่วงเวลาแตก",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็ปไซต์",
+                  "uri": "https://auto.betflixauto88.vip/login"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#01e200"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#534200"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflixauto88.vip/login"
+        }
+      }
+    }
+  ]
+}
+}]
