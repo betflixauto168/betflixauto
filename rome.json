@@ -1,0 +1,166 @@
+[{
+  "type": "flex",
+  "altText": "คุณได้โค้ดฟรี100 รับกรอกเลยตอนนี้❗",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/FcTs2buacAAf-5s.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/79Cg1W3"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/79Cg1W3"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/logoe5217c39a92f6b17.png",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "spacing": "none",
+            "margin": "none",
+            "offsetTop": "md",
+            "offsetBottom": "none",
+            "offsetEnd": "none",
+            "paddingAll": "none",
+            "paddingTop": "none",
+            "paddingStart": "none",
+            "paddingEnd": "none",
+            "paddingBottom": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "แจกฟรี  100.-",
+                    "color": "#FFD700",
+                    "size": "3xl",
+                    "style": "italic",
+                    "weight": "bold"
+                  }
+                ],
+                "size": "xl",
+                "wrap": true,
+                "offsetTop": "none",
+                "offsetBottom": "none",
+                "offsetStart": "xxl"
+              },
+              {
+                "type": "text",
+                "color": "#F5F5DC",
+                "align": "start",
+                "weight": "bold",
+                "text": "แจกโค้ด เครดิคฟรีไม่ต้องฝาก"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แค่สมัครก็รับ โค้ดได้เลย",
+                    "size": "md",
+                    "color": "#F5F5DC",
+                    "weight": "bold",
+                    "offsetTop": "none",
+                    "offsetBottom": "none",
+                    "offsetStart": "xxl"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ],
+            "spacing": "xs"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#ba0d0d",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/79Cg1W3"
+        },
+        "margin": "none"
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/79Cg1W3"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/79Cg1W3"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/79Cg1W3"
+    }
+  }
+}
+}]
