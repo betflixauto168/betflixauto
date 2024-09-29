@@ -1,0 +1,74 @@
+[{
+  "type": "flex",
+  "altText": "คูปอง 💯 บ.❗❗ กดรับได้แล้วตอนนี้ ❗❗",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__53559426.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/V332CxF1"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่วันนี้รับฟรี  100 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "size": "md",
+        "color": "#FFFFFF"
+      },
+      {
+        "type": "text",
+        "text": "เพียงสมัครสมาชิกเท่านั้น",
+        "align": "center",
+        "color": "#FFFFFF",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "กดรับเลย",
+              "uri": "https://lin.ee/V332CxF1"
+            },
+            "style": "secondary",
+            "color": "#00F5FF"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สอบถาม",
+              "uri": "https://lin.ee/V332CxF1"
+            },
+            "style": "secondary",
+            "margin": "md",
+            "color": "#00CD00"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#0000FF",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    }
+  }
+}
+}]
