@@ -1,0 +1,180 @@
+[{
+  "type": "flex",
+  "altText": "เงินเข้า KBNK xxx-x-x8883x จำนวน 100 บาท",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/1727643096046.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EaEVSc6"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 100",
+            "align": "center",
+            "size": "xxl",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "รับได้ทุกวัน รับได้ทุกคน",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/EaEVSc6"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ต่อ",
+                  "uri": "https://lin.ee/EaEVSc6"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/EaEVSc6"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#2e2c00"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EaEVSc6"
+        }
+      },
+      "action": {
+        "type": "uri",
+        "label": "action",
+        "uri": "https://lin.ee/EaEVSc6"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/1727643214709.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EaEVSc6"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แนะนำเพื่อน",
+            "align": "center",
+            "size": "xxl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "สร้างรายได้ ถอนได้ทุกวัน",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แนะนำ",
+                  "uri": "https://lin.ee/EaEVSc6"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถาม",
+                  "uri": "https://lin.ee/EaEVSc6"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/EaEVSc6"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#2e2c00"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/EaEVSc6"
+        }
+      }
+    }
+  ]
+}
+}]
