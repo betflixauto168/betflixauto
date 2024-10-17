@@ -1,0 +1,81 @@
+[{
+  "type": "flex",
+  "altText": "💥แจกฟรี 100 ตลอดทั้งเดือนกดเลย💰",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-3_0519ad21a77f2c6bd.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/TaC1B62"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "หมุนกงล้อเสี่ยงดวงฟรี",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CCFF00"
+      },
+      {
+        "type": "text",
+        "text": "ลุ้นรับเครดิตฟรี สุงสุด 300 เครดิต",
+        "margin": "sm",
+        "size": "md",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CCFF00",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เเชร์",
+              "uri": "https://lin.ee/TaC1B62"
+            },
+            "color": "#CCFF00",
+            "style": "secondary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครเลย",
+              "uri": "https://lin.ee/TaC1B62"
+            },
+            "style": "secondary",
+            "color": "#FFA500"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "lg"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "180deg",
+      "startColor": "#003333",
+      "endColor": "#CCFF00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "http://linecorp.com/"
+    }
+  }
+}
+}]
