@@ -1,0 +1,236 @@
+[{
+  "type": "flex",
+  "altText": "สมัครสมาชิกใหม่ วันนี้! รับเครดิตฟรี 100฿บาท ทันที!!",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-2_0cb36583a405afc9d.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wUy9HS6"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📢 แจกเครดิตฟรีทุกวัน 🔥",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "align": "center",
+            "color": "#9900FF"
+          },
+          {
+            "type": "text",
+            "text": "👉รับได้เลยไม่ต้องฝากก่อน ไม่ต้องลงทุน👈",
+            "align": "center",
+            "size": "sm",
+            "weight": "regular",
+            "color": "#9900FF"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#66FFFF"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์เลย",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#00FF00"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF4500",
+          "endColor": "#CCFFFF",
+          "centerColor": "#FF4500"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-3_0fa197908cab1f58a.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wUy9HS6"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "📢 โปรโมชั่น 19 รับ 100 ✅",
+            "weight": "bold",
+            "size": "xl",
+            "wrap": true,
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "✅ สมัครสมาชิกใหม่รับได้ทันที ✅",
+            "weight": "regular",
+            "size": "md",
+            "align": "center"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครสมาชิก",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#FFFF00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็บไซต์",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "lg",
+                "color": "#00FF00"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF4500",
+          "endColor": "#CCFFFF",
+          "centerColor": "#FF4500"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "size": "mega",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-3-copy-3_0.jpg",
+        "size": "full",
+        "aspectMode": "cover",
+        "aspectRatio": "1:1",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wUy9HS6"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "🚩 โบนัสสมาชิก 100% 🚩",
+            "weight": "bold",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "✨ ไม่รับโปร ไม่ต้องทำเทิร์น ✨",
+            "align": "center",
+            "weight": "regular",
+            "size": "md"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปรโมชั่น",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#FFFF00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เข้าสู่เว็บไซต์",
+                  "uri": "https://lin.ee/wUy9HS6"
+                },
+                "style": "secondary",
+                "margin": "xl",
+                "color": "#00FF00"
+              }
+            ]
+          }
+        ],
+        "spacing": "sm",
+        "paddingAll": "13px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF4500",
+          "endColor": "#CCFFFF",
+          "centerColor": "#FF4500"
+        }
+      }
+    }
+  ]
+}
+}]
