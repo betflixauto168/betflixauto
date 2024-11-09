@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "👉แจกฟรี 50 เครดิต (ไม่มีกิจกรรม) !!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/-506a4e8ea9fa5c8049.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/f5CyWCe"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รับฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "3xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "text",
+        "text": "ได้ทั้งเดือน 50 เครดิต ฟรี ฟรีเลยจ้า!!",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/f5CyWCe"
+            },
+            "style": "primary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://m.goatbet1st.ltd/login"
+            },
+            "margin": "md",
+            "style": "primary"
+          }
+        ],
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#1C1C1C",
+      "endColor": "#FF8C00",
+      "centerColor": "#FF8C00"
+    }
+  }
+}
+}]
