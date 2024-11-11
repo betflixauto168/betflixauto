@@ -1,0 +1,83 @@
+[{
+  "type": "flex",
+  "altText": "UFASOFT88",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/50fa19aa97271e48a2.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://heylink.me/ufasoft88/"
+            },
+            "style": "secondary",
+            "height": "sm",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก - ถอน",
+              "uri": "https://ufasoft88.com/"
+            },
+            "style": "secondary",
+            "height": "sm",
+            "margin": "xxl"
+          }
+        ],
+        "backgroundColor": "#FF4500"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/1009fd8d3a7a6037ad2.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://heylink.me/ufasoft88/"
+            },
+            "height": "sm",
+            "style": "secondary",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก - ถอน",
+              "uri": "https://ufasoft88.com/"
+            },
+            "style": "secondary",
+            "height": "sm",
+            "margin": "xxl"
+          }
+        ],
+        "backgroundColor": "#FF4500"
+      }
+    }
+  ]
+}
+}]
