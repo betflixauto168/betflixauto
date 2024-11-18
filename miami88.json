@@ -1,0 +1,117 @@
+[{
+  "type": "flex",
+  "altText": "📢รับได้ทั้งสมาชิกเก่าและใหม่ รีบๆเข้ามารับกันได้เลย✔",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-1_0480effcdea198d58.jpg",
+    "size": "full",
+    "aspectRatio": "1:1",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/cyt7xkO"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "PGsoft",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📣กับมาอีกครั้ง อย่างยิ่งใหญ่🔥",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📢แจกเครดิตฟรี มูลค่า 500,000 บาท",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/cyt7xkO"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFFF00",
+      "endColor": "#00CD00"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/cyt7xkO"
+        },
+        "style": "primary",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อแอดมิน",
+          "uri": "https://lin.ee/cyt7xkO"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สอบถาม",
+          "uri": "https://lin.ee/cyt7xkO"
+        },
+        "style": "primary",
+        "offsetEnd": "none",
+        "offsetStart": "sm"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#00CD00",
+      "endColor": "#FFFF00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/cyt7xkO"
+    }
+  }
+}
+}]
