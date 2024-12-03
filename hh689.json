@@ -1,0 +1,83 @@
+[{
+  "type": "flex",
+  "altText": "แจกทุนฟรี50 มาก่อนได้ก่อน",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/810761ad-3180-4673-b3ff-63e4ca0f3f05.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/bhHto0M"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก - ถอน",
+              "uri": "https://www.hengheng689.com/"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl"
+          }
+        ],
+        "backgroundColor": "#D8BFD8"
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/100a8bc0db35ea7d250.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://www.hengheng689.com/"
+            },
+            "height": "sm",
+            "style": "primary",
+            "margin": "none"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก - ถอน",
+              "uri": "https://www.hengheng689.com/"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl"
+          }
+        ],
+        "backgroundColor": "#D8BFD8"
+      }
+    }
+  ]
+}
+}]
