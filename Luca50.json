@@ -1,0 +1,164 @@
+[{
+  "type": "flex",
+  "altText": "ฟรีเครดิต 50 แจกของขวัญปีใหม่",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/Fc70zbDaUAAkG6e.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/8eqPefe"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/8eqPefe"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/274569448_129252859647737_868606.jpg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "spacing": "none",
+            "margin": "none",
+            "offsetTop": "md",
+            "offsetBottom": "none",
+            "offsetEnd": "none",
+            "paddingAll": "none",
+            "paddingTop": "none",
+            "paddingStart": "none",
+            "paddingEnd": "none",
+            "paddingBottom": "none"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "แจกฟรี   50.-",
+                    "color": "#FFD700",
+                    "size": "3xl",
+                    "style": "italic",
+                    "weight": "bold"
+                  }
+                ],
+                "size": "xl",
+                "wrap": true,
+                "offsetTop": "none",
+                "offsetBottom": "none",
+                "offsetStart": "xxl"
+              },
+              {
+                "type": "text",
+                "color": "#F5F5DC",
+                "align": "start",
+                "weight": "bold",
+                "text": "✅ ใครไม่มีทุน มาที่นี้ เรามีมาแจก"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ ไม่ต้องควักกระเป๋า ฟรี !!",
+                    "size": "md",
+                    "color": "#F5F5DC",
+                    "weight": "bold",
+                    "align": "start"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ],
+            "spacing": "xs"
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#3f4c6b",
+          "endColor": "#000000",
+          "centerColor": "#0F2027"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/8eqPefe"
+        },
+        "margin": "none"
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8eqPefe"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "กด เพื่อรับเครดิตฟรี",
+          "uri": "https://lin.ee/8eqPefe"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#3f4c6b",
+      "centerColor": "#333333"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8eqPefe"
+    }
+  }
+}
+}]
