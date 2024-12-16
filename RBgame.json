@@ -1,0 +1,72 @@
+[{
+  "type": "flex",
+  "altText": "สมัครเลย รับทันที่ 💯",
+  "contents": {
+  "type": "bubble",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__55992562_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/YUKHjYU"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100 เครดิต",
+        "size": "xl",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "โบนัสสูงสุด250%",
+        "size": "lg",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/YUKHjYU"
+            },
+            "style": "primary",
+            "margin": "xs"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://rebrand.ly/miami999"
+            },
+            "style": "primary",
+            "margin": "xs"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#FF0000"
+    }
+  }
+}
+}]
