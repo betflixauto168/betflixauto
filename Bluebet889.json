@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "ยินดีด้วยคุณได้รับ 50 เครดิตฟรี",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/45645677.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://heylink.me/BBF88/"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 50฿",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#e48b09",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://heylink.me/BBF88/"
+        }
+      },
+      {
+        "type": "text",
+        "text": "ทำยอด 500",
+        "size": "lg",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#ff0000",
+        "margin": "md",
+        "weight": "bold",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://heylink.me/BBF88/"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://heylink.me/BBF88/"
+            },
+            "color": "#1aff00",
+            "style": "secondary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เครดิตฟรี 50฿",
+              "uri": "https://heylink.me/BBF88/"
+            },
+            "color": "#1aff00",
+            "style": "secondary"
+          }
+        ],
+        "spacing": "xxl",
+        "margin": "xl"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "color": "#002aff",
+        "margin": "lg",
+        "size": "sm",
+        "action": {
+          "type": "uri",
+          "label": "เข้าสู่เว็บไซต์",
+          "uri": "https://heylink.me/BBF88/"
+        },
+        "weight": "bold",
+        "text": "ฝากถอนไม่มีขั้นต่ำ"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#0000FF",
+      "endColor": "#0000FF",
+      "centerColor": "#0000FF"
+    },
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://heylink.me/BBF88/"
+    }
+  }
+}
+}]
