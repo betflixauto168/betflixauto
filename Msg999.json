@@ -1,0 +1,69 @@
+[{
+  "type": "flex",
+  "altText": "สมาชิกใหม่รับได้เลยไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56295477.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/zPPOHU3"
+    },
+    "aspectMode": "cover"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "MGS คูปองเครดิตฟรี",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#EEC900"
+      },
+      {
+        "type": "text",
+        "text": "👇ไม่ต้องฝากเงิน เพียงเเจ้งโค๊ค👇",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "text",
+        "text": "คัดลอก: MGSFREE100",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "👉กรอกโค๊ดเครดิตฟรี👈",
+          "uri": "https://lin.ee/zPPOHU3"
+        },
+        "margin": "lg",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#FF8C00"
+    }
+  }
+}
+}]
