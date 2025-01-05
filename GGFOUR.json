@@ -1,0 +1,73 @@
+[{
+  "type": "flex",
+  "altText": "❤แจกเครดิตฟรีต้อนรับวันเด็กรีบมากดรับได้เลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56475669_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/JxdXfAH"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "GG.FOURแจกไม่อั้น",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#EEC900"
+      },
+      {
+        "type": "text",
+        "text": "👇ไม่ต้องฝากเงิน เพียงเเจ้งโค๊ค👇",
+        "size": "lg",
+        "align": "center",
+        "weight": "bold",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "text",
+        "text": "คัดลอก: GG-FOUR100",
+        "align": "center",
+        "weight": "bold",
+        "size": "xl",
+        "margin": "sm",
+        "color": "#E8E8E8"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎰 เเจ้งโค๊คฟรี 🎰",
+          "uri": "https://lin.ee/JxdXfAH"
+        },
+        "margin": "lg",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#FF0000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/JxdXfAH"
+    }
+  }
+}
+}]
