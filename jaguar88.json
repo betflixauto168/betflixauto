@@ -1,0 +1,75 @@
+[{
+  "type": "flex",
+  "altText": "🎁JAGUARVIP เฮง แจกเครดิตฟรีไม่อั่น 100 เครดิตทุกยูส",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56533308_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/O2vibhO"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เว็บตรง เเจกหนัก เเจกจริง",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 100 บาท เข้าบัญชี ทันที",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ลงทะเบียน",
+              "uri": "https://lin.ee/O2vibhO"
+            },
+            "margin": "md",
+            "color": "#FFD700",
+            "style": "secondary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://jaguarvip.com/?openExternalBrowser=1"
+            },
+            "margin": "md",
+            "color": "#FFD700",
+            "style": "secondary"
+          }
+        ],
+        "margin": "md"
+      }
+    ],
+    "backgroundColor": "#660000",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/O2vibhO"
+    }
+  }
+}
+}]
