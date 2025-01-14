@@ -1,0 +1,80 @@
+[{
+  "type": "flex",
+  "altText": "👉แจกฟรี 100 เครดิต (ไม่มีกิจกรรม) !!!",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56598855_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/3qjpwdY"
+    },
+    "aspectRatio": "6:5",
+    "backgroundColor": "#000000"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "รับฟรี",
+        "align": "center",
+        "weight": "bold",
+        "size": "3xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "text",
+        "text": "ได้ทั้งเดือน 100 เครดิต ฟรี ฟรีเลยจ้า!!",
+        "align": "center",
+        "size": "xl",
+        "color": "#FFFAF0"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/3qjpwdY"
+            },
+            "style": "primary",
+            "margin": "md"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัคร",
+              "uri": "https://bit.ly/aoxbet99"
+            },
+            "margin": "md",
+            "style": "primary"
+          }
+        ],
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#1C1C1C",
+      "endColor": "#1C1C1C",
+      "centerColor": "#BA55D3"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/3qjpwdY"
+    }
+  }
+}
+}]
