@@ -1,0 +1,75 @@
+[{
+  "type": "flex",
+  "altText": "🔥2000 ยูสแรกที่ทักมาหารับไปเลย✔",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56639598_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/1HHVNo6"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "💰  JAGUAR 📢",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA"
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 100 ไม่ต้องฝากเงินก่อน",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/1HHVNo6"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://jaguarvip.com/?openExternalBrowser=1"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    }
+  }
+}
+}]
