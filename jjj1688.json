@@ -1,0 +1,104 @@
+[{
+  "type": "flex",
+  "altText": "พี่🐅แจกเองกับมือ ใครอยากได้ทักมารับได้เลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__56770712_0.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/jWcmO9d"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": " พี่เสือพาตะลุย",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "🎁พี่เสือแจกเอง ไม่ต้องกลัวไม่ได้🐲",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "😎ทุนพี่เสือ มี  500,000 บาท ด่วนเลย",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#CDAD00"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/jWcmO9d"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFA500",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/jWcmO9d"
+        },
+        "style": "primary",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "เล่นกับพี่🐯",
+          "uri": "https://jaguarvip.com"
+        },
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FFA500"
+    }
+  }
+}
+}]
