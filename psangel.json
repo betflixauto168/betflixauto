@@ -1,0 +1,77 @@
+[{
+  "type": "flex",
+  "altText": "เพียงสมัครสมาชิก รับทันที!! 100฿ บาท",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__56975546_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/mWDx8zR"
+        },
+        "margin": "none"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "PS-Angel.ltd",
+            "weight": "bold",
+            "align": "center",
+            "color": "#ffffff",
+            "margin": "none",
+            "size": "xxl"
+          },
+          {
+            "type": "text",
+            "text": "\"เพียงสมัครสมาชิก\" (รับทันที!! 100฿ บาท)",
+            "align": "center",
+            "color": "#FFFF00",
+            "size": "md",
+            "margin": "none",
+            "offsetTop": "3px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี 100฿ บาท",
+                  "uri": "https://lin.ee/mWDx8zR"
+                },
+                "style": "secondary",
+                "margin": "sm",
+                "color": "#4ee72d"
+              }
+            ]
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "180deg",
+          "endColor": "#ffffff",
+          "centerColor": "#6495ED",
+          "startColor": "#6495ED"
+        },
+        "action": {
+          "type": "uri",
+          "label": "ทางเข้าเล่น",
+          "uri": "https://lin.ee/mWDx8zR"
+        }
+      }
+    }
+  ]
+}
+}]
