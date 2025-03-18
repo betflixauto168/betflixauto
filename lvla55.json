@@ -1,0 +1,97 @@
+[{
+  "type": "flex",
+  "altText": "กดปุ่มเขียว รับโค้ดฟรี 100 เครดิต",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__57630732.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/bOLWpOR"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "แจกฟรี 100 เครดิต",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "แอดไลน์ใหม่รับได้เลย ฟรี 100",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "lg",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "(  รีบเลย เริ่มแจกแล้วตอนนี้  )",
+            "align": "center",
+            "color": "#FFFFE0",
+            "size": "sm"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#18002b",
+          "endColor": "#000000",
+          "centerColor": "#4a0057"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/bOLWpOR"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับโค้ดเครดิตฟรี",
+              "uri": "https://lin.ee/bOLWpOR"
+            },
+            "style": "secondary",
+            "color": "#00EE00"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#4b0088",
+          "endColor": "#0b0014",
+          "centerColor": "#0b0014"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/bOLWpOR"
+        }
+      }
+    }
+  ]
+}
+}]
