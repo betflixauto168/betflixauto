@@ -1,0 +1,175 @@
+[{
+  "type": "flex",
+  "altText": "ฉลองเว็บใหม่แจกฟรี 50 เครดิต",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/1b9ace0eff4a786b5.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/YtDOt1M"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50",
+            "align": "center",
+            "size": "xxl",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ฉลองเปิดแบรนด์ใหม่",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/YtDOt1M"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "ติดต่อแอดมิน",
+                  "uri": "https://lin.ee/YtDOt1M"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/YtDOt1M"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#600000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/YtDOt1M"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/11efd201c88bd4ec8.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://aurora999.com/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โปรโมชั่นแนะนำ",
+            "align": "center",
+            "size": "xxl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "สร้างรายได้ ถอนได้ทุกวัน",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโปร",
+                  "uri": "https://aurora999.com/register"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถาม",
+                  "uri": "https://lin.ee/YtDOt1M"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://aurora999.com/register"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#600000"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://aurora999.com/register"
+        }
+      }
+    }
+  ]
+}
+}]
