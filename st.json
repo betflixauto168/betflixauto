@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100 กดรับตอนนี้",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__57778766.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/THl7j4C"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "STAR BET 88",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "แจกแจกโคตรเดือด",
+            "align": "center",
+            "color": "#FFFFFF",
+            "size": "xl",
+            "wrap": false,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "lg",
+            "color": "#FFFFFF",
+            "text": "เป็นสมาชิกแจกไปเลย 100 ฟรี ๆ"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#000000",
+          "centerColor": "#520078"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/THl7j4C"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/THl7j4C"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#09c400"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "( เล่นได้ทุกเกมในยูสเซอร์เดียว )",
+              "uri": "https://lin.ee/THl7j4C"
+            },
+            "color": "#FFFFFF",
+            "height": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#090700",
+          "centerColor": "#090700"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/THl7j4C"
+        }
+      }
+    }
+  ]
+}
+}]
