@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "📢เปิดยูสใหม่รับฟรี 100 เล่นได้ทุกเกมส์",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__57901154_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/lxQIkWZ"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "🎰 AOXBET789 🎰",
+        "size": "3xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFD700",
+        "style": "italic",
+        "decoration": "underline"
+      },
+      {
+        "type": "text",
+        "text": "เปิดยูสใหม่รับฟรี 100 เล่นได้ทุกเกมส์",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#F5FFFA"
+      },
+      {
+        "type": "separator",
+        "margin": "md"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "เปิดยูส",
+              "uri": "https://lin.ee/lxQIkWZ"
+            },
+            "style": "secondary",
+            "color": "#00CC00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://lin.ee/lxQIkWZ"
+            },
+            "style": "secondary",
+            "color": "#00CC00"
+          }
+        ],
+        "spacing": "lg",
+        "margin": "lg"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#DAA520",
+      "endColor": "#363636"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/lxQIkWZ"
+    }
+  }
+}
+}]
