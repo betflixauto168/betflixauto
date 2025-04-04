@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "ต้อนรับสงกรานต์ แจกฟรี 100 เครดิต",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__57925648_0.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/49IHSDr"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "GOAT BET+",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "ต้อนรับ สงกรานต์",
+            "align": "center",
+            "color": "#FFFFFF",
+            "size": "xl",
+            "weight": "regular",
+            "wrap": false
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี ตลอดทั้งเดือน",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "md",
+            "color": "#FFFFFF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#001332",
+          "endColor": "#000000",
+          "centerColor": "#3760ff"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/49IHSDr"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/49IHSDr"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#08dd00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "*เริ่มแจกตั่งแต่วันนี้เป็นต้นไป*",
+              "uri": "https://lin.ee/49IHSDr"
+            },
+            "color": "#FFFFFF",
+            "height": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#001332",
+          "endColor": "#001332",
+          "centerColor": "#090700"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/49IHSDr"
+        }
+      }
+    }
+  ]
+}
+}]
