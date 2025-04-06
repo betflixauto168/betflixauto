@@ -1,0 +1,175 @@
+[{
+  "type": "flex",
+  "altText": "กดรับเครดิตฟรี 50 เข้าระบบแล้วรับได้เลย",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/35e7830e752f477fd.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OUNmrslH"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ZEED R",
+            "size": "xl",
+            "color": "#FFF5EE",
+            "weight": "bold",
+            "align": "center"
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 50 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/OUNmrslH"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แชร์ต่อ",
+                  "uri": "https://lin.ee/OUNmrslH"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/OUNmrslH"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#5e2a00"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OUNmrslH"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/photo_2024-10-14_16-38-25.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OUNmrslH"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็บตรง ไม่ผ่านเอเย่นต์",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "รวมโปรโมชั่นมากมาย แตกหนัก",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แนะนำ",
+                  "uri": "https://lin.ee/OUNmrslH"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สอบถาม",
+                  "uri": "https://lin.ee/OUNmrslH"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/OUNmrslH"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#5e2a00"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OUNmrslH"
+        }
+      }
+    }
+  ]
+}
+}]
