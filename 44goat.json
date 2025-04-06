@@ -1,0 +1,129 @@
+[{
+  "type": "flex",
+  "altText": "แค่คลิกก็ได้รับ ไม่ต้องลุ้น ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__58007561_0.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/8cPcSZW"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "GOAT GAME 44",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center",
+        "color": "#EEB422"
+      },
+      {
+        "type": "text",
+        "text": "📣กับมาอีกครั้ง อย่างยิ่งใหญ่🔥",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#EEB422"
+      },
+      {
+        "type": "text",
+        "text": "ต้อนรับสงการ หมดเขตสิ้นเดือนนี้",
+        "color": "#EEB422",
+        "size": "lg",
+        "margin": "md",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📢แจกเครดิตฟรี มูลค่า 300,000 บาท",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center",
+        "color": "#EEB422"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8cPcSZW"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "80deg",
+      "startColor": "#000080",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/8cPcSZW"
+        },
+        "style": "primary",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อแอดมิน",
+          "uri": "https://lin.ee/8cPcSZW"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สอบถาม",
+          "uri": "https://lin.ee/8cPcSZW"
+        },
+        "style": "primary",
+        "offsetEnd": "none",
+        "offsetStart": "sm"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "120deg",
+      "startColor": "#000080",
+      "endColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/8cPcSZW"
+    }
+  }
+}
+}]
