@@ -1,0 +1,62 @@
+[{
+  "type": "flex",
+  "altText": "💎สมัครใหม่รับไปเลย ฟรี100 ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__58220608_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/o6jUmuC"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "สมาชิกใหม่รับ 100 ฟรี",
+        "size": "3xl",
+        "weight": "regular",
+        "align": "center",
+        "color": "#33CCFF"
+      },
+      {
+        "type": "text",
+        "text": "💥 1 สิทธิ์ ต่อ 1ท่าน 💥",
+        "size": "xxl",
+        "align": "center",
+        "weight": "bold",
+        "color": "#33CCFF"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมาชิกใหม่",
+          "uri": "https://lin.ee/o6jUmuC"
+        },
+        "color": "#990099",
+        "style": "primary",
+        "margin": "lg"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/o6jUmuC"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#663366",
+      "endColor": "#000000"
+    }
+  }
+}
+}]
