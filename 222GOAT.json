@@ -1,0 +1,119 @@
+[{
+  "type": "flex",
+  "altText": "✔สมัครเสร็จทักขอรับกับแอดได้เลย👉ไม่ฝากไม่แชร์",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__58433591_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ZXTXIn80"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครรับเครดิตฟรีได้แล้ววันนี้",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFAFA"
+          },
+          {
+            "type": "text",
+            "text": "100 เครดิตไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "md",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุนฟรี",
+              "uri": "https://lin.ee/ZXTXIn80"
+            },
+            "style": "primary"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "50deg",
+          "startColor": "#1C1C1C",
+          "endColor": "#1C1C1C",
+          "centerColor": "#FFD700"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ZXTXIn80"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__58433594_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ZXTXIn80"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "โบนัส 100% รับได้ทุกยอดฝาก",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFAFA"
+          },
+          {
+            "type": "text",
+            "text": "กระเป๋าเดียว ไม่ต้องโยกเงิน",
+            "size": "md",
+            "color": "#FF0000",
+            "align": "center"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/ZXTXIn80"
+            },
+            "style": "primary"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "50deg",
+          "startColor": "#1C1C1C",
+          "endColor": "#1C1C1C",
+          "centerColor": "#FFD700"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ZXTXIn80"
+        }
+      }
+    }
+  ]
+}
+}]
