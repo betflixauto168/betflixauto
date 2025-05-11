@@ -1,0 +1,75 @@
+[{
+  "type": "flex",
+  "altText": "!เพียงแคปรูปภาพมา รับเลย 100฿ เครดิต แจกกันตลอด 24ชม.",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__58818570_0.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/4fJDLLyA"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "เพียงแคปรูปภาพมา รับเลย 100 เครดิต",
+        "align": "center",
+        "weight": "bold",
+        "color": "#FFD700",
+        "size": "lg"
+      },
+      {
+        "type": "text",
+        "text": "เว็ปพนันเดิมพันจากต่างประเทศ การันตีความมั่นคง",
+        "wrap": true,
+        "align": "center",
+        "size": "xs",
+        "color": "#FFD700",
+        "margin": "md"
+      },
+      {
+        "type": "text",
+        "text": " ♦️ครบจบที่เว็บเดียว♦️ฝาก~ถอน ขั้นต่ำเพียง1บาท",
+        "align": "center",
+        "color": "#00008B",
+        "size": "sm",
+        "margin": "none"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อรับเครดิตฟรี 100฿",
+              "uri": "https://lin.ee/4fJDLLyA"
+            },
+            "style": "secondary",
+            "color": "#7FFF00",
+            "margin": "none"
+          }
+        ],
+        "margin": "sm",
+        "spacing": "none"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#7CFC00"
+    }
+  }
+}
+}]
