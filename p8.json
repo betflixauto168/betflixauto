@@ -1,0 +1,182 @@
+[{
+  "type": "flex",
+  "altText": "แคปภาพนี้ส่ง รับฟรี 100 เครดิต",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/S__59310086.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/OhAcAjH"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OhAcAjH"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/Untitled8c98eaeda437e33f.png",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/OhAcAjH"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "offsetTop": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "แคปภาพนี้ รับฟรี 100",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "xl"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  }
+                ],
+                "size": "sm",
+                "wrap": true,
+                "offsetTop": "none",
+                "offsetStart": "xxl"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ รับได้เลย ไม่ต้องฝาก",
+                    "size": "md",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md",
+                "offsetStart": "lg"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "👇 ส่งภาพกดปุ่มเขียว  👇",
+                    "color": "#FFB90F",
+                    "weight": "bold",
+                    "offsetStart": "lg"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "รับกิจกรรมแล้ว 13,628 ติดตาม 10,561 คน",
+                    "color": "#ececec",
+                    "weight": "bold",
+                    "size": "xxs",
+                    "margin": "md"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#7229A6"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/OhAcAjH"
+        }
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/OhAcAjH"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ส่งภาพ",
+          "uri": "https://lin.ee/OhAcAjH"
+        },
+        "style": "primary",
+        "color": "#3fd40c"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/OhAcAjH"
+    }
+  }
+}
+}]
