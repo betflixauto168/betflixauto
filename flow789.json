@@ -1,0 +1,151 @@
+[{
+  "type": "flex",
+  "altText": "!แจกเครดิตฟรี 100฿ รับได้ทันที ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__59408437_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wqs3RcY"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ย่ำแจกฟรี ทำยอด 300 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "text",
+            "text": "ถอนได้สูงสุด 100 บาท",
+            "align": "center",
+            "size": "lg",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/wqs3RcY"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://auto.aoxbet99.ltd/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "190deg",
+          "startColor": "#000000",
+          "endColor": "#FFD700",
+          "centerColor": "#FF0000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__59408448_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/wqs3RcY"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สนุก รวดเร็ว จ่ายจริง บริการดี",
+            "weight": "bold",
+            "size": "lg",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "text",
+            "text": "ครบวงจร สล็อต ยิงปลา คาสิโน",
+            "size": "md",
+            "margin": "sm",
+            "weight": "bold",
+            "align": "center",
+            "color": "#FFFFE0"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://auto.aoxbet99.ltd/"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับโบนัส",
+                  "uri": "https://auto.aoxbet99.ltd/"
+                },
+                "margin": "md",
+                "style": "primary",
+                "height": "sm"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "190deg",
+          "startColor": "#FFD700",
+          "endColor": "#000000",
+          "centerColor": "#FF0000"
+        }
+      }
+    }
+  ]
+}
+}]
