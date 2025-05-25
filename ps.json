@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "คุณได้รับเครดิตฟรี กรุณากดใช้สิทธิ์ของคุณ 100 ",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__59457645.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/vE0syQo"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "PSTH 888",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "แจกทุนฟรี 100 เครดิต",
+            "align": "center",
+            "color": "#FFFFFF",
+            "size": "xl",
+            "wrap": false,
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "weight": "bold",
+            "align": "center",
+            "wrap": true,
+            "size": "lg",
+            "color": "#FFFFFF",
+            "text": "สมัครสมาชิกแจกไปเลยฟรี ๆ ไม่ฝาก"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#000000",
+          "centerColor": "#6A29A6"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/vE0syQo"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/vE0syQo"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#0FD108"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "( เล่นได้ทุกเกมในยูสเซอร์เดียว )",
+              "uri": "https://lin.ee/vE0syQo"
+            },
+            "color": "#FFFFFF",
+            "height": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#090700",
+          "centerColor": "#090700"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/vE0syQo"
+        }
+      }
+    }
+  ]
+}
+}]
