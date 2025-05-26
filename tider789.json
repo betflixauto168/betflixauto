@@ -1,0 +1,151 @@
+[{
+  "type": "flex",
+  "altText": "กดปุ่มเขียวรับเครดิตฟรี 100",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__59506714_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n7xFFlj"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "กดปุ่มเขียว รับฟรี 100",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "แค่แอดไลน์ใหม่ ไม่ต้อฝากก่อน",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "แอดไลน์ รับเครดิตฟรี",
+                  "uri": "https://lin.ee/n7xFFlj"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/n7xFFlj"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "90deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#FF00FF"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n7xFFlj"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__59506718_0.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n7xFFlj"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็ปตรง",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ลิขสิทธิ์แท้ ปลอดภัย 100%",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เว็ปไซต์",
+                  "uri": "https://lin.ee/n7xFFlj"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/n7xFFlj"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "90deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#FF00FF"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/n7xFFlj"
+        }
+      }
+    }
+  ]
+}
+}]
