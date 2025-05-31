@@ -1,0 +1,118 @@
+[{
+  "type": "flex",
+  "altText": "สมัครใหม่วันนี้รับไป เลยฟรีๆ 100",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/S__59613206.jpg",
+    "size": "full",
+    "aspectRatio": "2:2",
+    "action": {
+      "type": "uri",
+      "label": "ฟรีตรงรูป",
+      "uri": "https://lin.ee/jJhB8S6"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "WJ666",
+        "size": "xxl",
+        "margin": "sm",
+        "weight": "bold",
+        "decoration": "underline",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📣กับมาอีกครั้ง อย่างยิ่งใหญ่🔥",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "📢แจกเครดิตฟรี มูลค่า 200,000 บาท",
+        "margin": "md",
+        "size": "lg",
+        "weight": "bold",
+        "align": "center"
+      },
+      {
+        "type": "text",
+        "text": "(หมายเหตุ รับได้1 คนต่อ ครั้งเท่านั้น)",
+        "margin": "xl",
+        "size": "xxs",
+        "color": "#ff5551",
+        "wrap": true,
+        "decoration": "underline"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/jJhB8S6"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFFF00",
+      "endColor": "#FF69B4",
+      "centerColor": "#FFFF00"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/jJhB8S6"
+        },
+        "style": "primary",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "ติดต่อแอดมิน",
+          "uri": "https://lin.ee/jJhB8S6"
+        },
+        "style": "primary"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "สมัคร",
+          "uri": "https://auto.aoxbet99.ltd/"
+        },
+        "style": "primary",
+        "offsetEnd": "none",
+        "offsetStart": "sm"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF69B4",
+      "endColor": "#FFFF00"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/jJhB8S6"
+    }
+  }
+}
+}]
