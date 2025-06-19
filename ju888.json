@@ -1,0 +1,108 @@
+[{
+  "type": "flex",
+  "altText": "จ๊วด 888 แจกเครดิตฟรี 100",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__60383262.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/FYSubxn"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "JUAD 888",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "แจกเครดิตฟรี 100 บาท",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "xl",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "✅ รับได้ทุกยูส ไม่ต้องรอ ❌",
+            "align": "center",
+            "color": "#FFFFE0",
+            "size": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#162959",
+          "endColor": "#000000",
+          "centerColor": "#162959"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/FYSubxn"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/FYSubxn"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อแอดมิน",
+              "uri": "https://lin.ee/FYSubxn"
+            },
+            "style": "secondary",
+            "color": "#00EE00"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#162959",
+          "endColor": "#162959",
+          "centerColor": "#162959"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/FYSubxn"
+        }
+      }
+    }
+  ]
+}
+}]
