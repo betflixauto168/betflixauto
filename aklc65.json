@@ -1,0 +1,89 @@
+[{
+  "type": "flex",
+  "altText": "แจกโค้ดเครดิตฟรี รับง่ายๆไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://s.imgz.io/2025/06/26/S__60604430_0a9f98a32e4494244.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/Q9I4Y2p"
+    },
+    "aspectRatio": "3:3"
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": " Haenk-pip0",
+        "weight": "bold",
+        "margin": "none",
+        "size": "xl",
+        "align": "center",
+        "decoration": "underline",
+        "color": "#FFD700"
+      },
+      {
+        "type": "text",
+        "text": "แจกเครโค้ดเครดิตฟรี 100 ",
+        "margin": "sm",
+        "size": "lg",
+        "align": "center",
+        "color": "#FFFAFA"
+      },
+      {
+        "type": "text",
+        "text": "สมัครสมาชิกง่ายๆ ก็รับไปเลยฟรีๆ",
+        "margin": "md",
+        "size": "lg",
+        "align": "center",
+        "color": "#FFFAFA"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF69B4",
+      "endColor": "#000000"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "horizontal",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🎁รับโค้ดฟรี🎁",
+          "uri": "https://lin.ee/Q9I4Y2p"
+        },
+        "style": "primary",
+        "margin": "none",
+        "offsetEnd": "sm"
+      },
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "🔥สมัคร🔥",
+          "uri": "https://auto.aoxbet99.ltd/"
+        },
+        "style": "primary"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#FF69B4"
+    }
+  }
+}
+}]
