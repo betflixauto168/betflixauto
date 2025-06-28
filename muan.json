@@ -1,0 +1,110 @@
+[{
+  "type": "flex",
+  "altText": "ฟรี 100 รอคุณกดรับอยู่",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/S__60710932.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ysBt8kO"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "สมัครใหม่ฟรี 100 เครดิต",
+            "color": "#FFB90F",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "แค่สมัคร รับฟรีทันที 100 เครดิต",
+            "align": "center",
+            "color": "#FFFFFF",
+            "size": "lg",
+            "weight": "regular",
+            "wrap": false
+          },
+          {
+            "type": "text",
+            "text": "รีบเลย มาก่อนได้รับก่อน",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "md",
+            "color": "#FFFFFF"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#000000",
+          "centerColor": "#730047"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ysBt8kO"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/ysBt8kO"
+            },
+            "style": "primary",
+            "height": "md",
+            "color": "#00E007"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "*แอดไลน์ใหม่สมัครรับได้เลย*",
+              "uri": "https://lin.ee/ysBt8kO"
+            },
+            "color": "#FFFFFF",
+            "height": "sm"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#090700",
+          "endColor": "#090700",
+          "centerColor": "#090700"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/ysBt8kO"
+        }
+      }
+    }
+  ]
+}
+}]
