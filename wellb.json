@@ -1,0 +1,151 @@
+[{
+  "type": "flex",
+  "altText": "เครดิตฟรี 50 รอคุณกดรับอยู่",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/-50--_-Best-online-casino-Casino-Hollywood-casino3ee1c148c4ea2787.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gNdvQbG"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เครดิตฟรี 50 รับด่วน !!",
+            "align": "center",
+            "weight": "bold",
+            "size": "xl",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "สมัครวันนี้รับได้เลย",
+            "align": "center",
+            "size": "md",
+            "color": "#FFF5EE",
+            "weight": "bold"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/gNdvQbG"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/gNdvQbG"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#4A3801"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gNdvQbG"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/481172599_628668289905060_759248.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/gNdvQbG"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "เว็ปตรง",
+            "align": "center",
+            "size": "xl",
+            "weight": "bold",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "text",
+            "text": "ครบจบในเว็ปเดียว",
+            "align": "center",
+            "weight": "bold",
+            "size": "md",
+            "color": "#FFF5EE"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "เว็ปไซต์",
+                  "uri": "https://auto.betflixauto88.vip/login"
+                },
+                "margin": "md",
+                "height": "sm",
+                "style": "primary",
+                "color": "#00CC00"
+              }
+            ],
+            "margin": "lg",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://auto.betflixauto88.vip/login"
+            }
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#4A3801"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflixauto88.vip/login"
+        }
+      }
+    }
+  ]
+}
+}]
