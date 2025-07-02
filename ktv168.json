@@ -1,0 +1,99 @@
+[{
+  "type": "flex",
+  "altText": "แจก 150 เครดิต แจกเยอะสุด มากที่สุด",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "size": "giga",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/S__60866585.jpg",
+        "size": "full",
+        "aspectRatio": "1:1",
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QC7wYU4"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "align": "center",
+            "text": "เครดิตฟรี 150 บาท",
+            "color": "#FFFFFF",
+            "size": "xxl",
+            "weight": "bold"
+          },
+          {
+            "type": "text",
+            "text": "รับได้ทุกคน แจกไปเลยทุกยูส",
+            "weight": "regular",
+            "align": "center",
+            "wrap": true,
+            "size": "lg",
+            "color": "#FFFFFF",
+            "margin": "md"
+          },
+          {
+            "type": "text",
+            "text": "(  เล่นได้ทุกค่ายเกม ในยูสเดียว  )",
+            "align": "center",
+            "color": "#FFFFE0",
+            "size": "sm",
+            "margin": "md"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#008C7E"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QC7wYU4"
+        }
+      },
+      "footer": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/QC7wYU4"
+            },
+            "style": "secondary",
+            "color": "#00EE00"
+          }
+        ],
+        "spacing": "lg",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#391d6e"
+        },
+        "margin": "none",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/QC7wYU4"
+        }
+      }
+    }
+  ]
+}
+}]
