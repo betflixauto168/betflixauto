@@ -1,0 +1,111 @@
+[{
+  "type": "flex",
+  "altText": "เว็บใหม่แจกทุน50เพียงสมัคร",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/699f5690-a386-4d85-ac8f-48bc128e0950.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://m.y2k-betflix.com/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุนฟรี 50",
+              "uri": "https://lin.ee/f88YGe6g"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "none",
+            "color": "#33FF00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ไม่ต้องฝากก่อน",
+              "uri": "https://m.y2k-betflix.com/register"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF00"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#FF0000",
+          "centerColor": "#FF3333"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/102c4e71f2dbbe8123.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://m.y2k-betflix.com/login"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ทางเข้าเว็บไซต์",
+              "uri": "https://m.y2k-betflix.com/register"
+            },
+            "height": "sm",
+            "style": "primary",
+            "margin": "none",
+            "color": "#33FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝากถอนไม่มีขั้นต่ำ",
+              "uri": "https://m.y2k-betflix.com/register"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF33"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF0000",
+          "endColor": "#FF0000",
+          "centerColor": "#FF3333"
+        }
+      }
+    }
+  ]
+}
+}]
