@@ -1,0 +1,111 @@
+[{
+  "type": "flex",
+  "altText": "ด่วน!! เข้ามารับทุนแทงฟรี 20",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/2fc5bd9f0d77f08c3.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cRfV52n"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แจกเครดิตแทงฟรี 20",
+              "uri": "https://lin.ee/cRfV52n"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "none",
+            "color": "#33FF00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมาชิกใหม่ รับส่วนลด 10%",
+              "uri": "https://lin.ee/cRfV52n"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF00"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFF33",
+          "endColor": "#FFFF33",
+          "centerColor": "#FFFFCC"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img5.pic.in.th/file/secure-sv1/41087b4cc71ab2318.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/cRfV52n"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แอดไลน์ @santi999",
+              "uri": "https://lin.ee/cRfV52n"
+            },
+            "height": "sm",
+            "style": "primary",
+            "margin": "none",
+            "color": "#33FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝากถอนไม่มีขั้นต่ำ",
+              "uri": "https://lin.ee/cRfV52n"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF33"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFF33",
+          "endColor": "#FFFF33",
+          "centerColor": "#FFFFCC"
+        }
+      }
+    }
+  ]
+}
+}]
