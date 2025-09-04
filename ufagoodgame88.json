@@ -1,0 +1,97 @@
+[{
+  "type": "flex",
+  "altText": "แจกเครดิตฟรี 100 UFAGG88",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "header": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "แจกเครดิตฟรี 100",
+                    "size": "xl",
+                    "align": "center",
+                    "color": "#000080",
+                    "weight": "bold"
+                  }
+                ]
+              }
+            ],
+            "backgroundColor": "#FFFFFF",
+            "cornerRadius": "xxl"
+          }
+        ],
+        "backgroundColor": "#191970",
+        "borderWidth": "medium",
+        "cornerRadius": "none"
+      },
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/b79970f8f069b80be1908f544794901f.jpg",
+        "size": "full"
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "✅แจกเครดิตฟรี 100 บาท",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "✅ทำยอด 500 ถอนได้ 100",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "text",
+            "text": "✅รับได้ทุกยูส ทุกท่าน",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัครรับตอนนี้ !!",
+                  "uri": "https://lin.ee/8p4tWm9"
+                },
+                "margin": "none",
+                "height": "sm",
+                "color": "#000080"
+              }
+            ],
+            "backgroundColor": "#FFFFFF",
+            "borderWidth": "none",
+            "cornerRadius": "xxl",
+            "margin": "md"
+          }
+        ],
+        "backgroundColor": "#191970",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000080"
+        }
+      }
+    }
+  ]
+}
+}]
