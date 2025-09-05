@@ -1,0 +1,96 @@
+[{
+  "type": "flex",
+  "altText": "!เว็บนี้ แจกเครดิตฟรี 100บาท ทุกยูสเซอร์",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/photo_2025-09-05_23-04-45.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/iU1XXie"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "size": "xxl",
+        "align": "center",
+        "color": "#FFB90F",
+        "offsetTop": "none",
+        "offsetBottom": "none",
+        "offsetStart": "none",
+        "offsetEnd": "none",
+        "weight": "bold",
+        "margin": "none",
+        "decoration": "underline",
+        "text": "Gost'co.onb"
+      },
+      {
+        "type": "text",
+        "text": "แจกเครดิตฟรี 100 บาท",
+        "size": "xl",
+        "align": "center",
+        "color": "#b0b0b0",
+        "margin": "none",
+        "weight": "bold"
+      },
+      {
+        "type": "text",
+        "align": "center",
+        "color": "#FFB90F",
+        "margin": "none",
+        "size": "xs",
+        "weight": "bold",
+        "text": "ฝาก 300 ขึ้นไป รับไปเลย FREE SPIN"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับเครดิตฟรี",
+              "uri": "https://lin.ee/iU1XXie"
+            },
+            "style": "primary",
+            "color": "#f83600"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมัครสมาชิก",
+              "uri": "https://lin.ee/9I4DfAh"
+            },
+            "color": "#33FF33",
+            "style": "secondary"
+          }
+        ],
+        "spacing": "sm",
+        "margin": "md"
+      }
+    ],
+    "action": {
+      "type": "uri",
+      "label": "เข้าสู่เว็บไซต์",
+      "uri": "https://lin.ee/iU1XXie"
+    },
+    "background": {
+      "type": "linearGradient",
+      "angle": "270deg",
+      "startColor": "#A020F0",
+      "endColor": "#FF0000",
+      "centerColor": "#000000"
+    }
+  }
+}
+}]
