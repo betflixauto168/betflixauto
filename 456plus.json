@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "ได้จริงครับแจกทุน 100 ได้จริงแน่อน",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img2.pic.in.th/pic/2fffb178ec1f7bacc.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/tpGeuzI"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/tpGeuzI"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/4567ae47168b5321673.png",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://m.y2k-betflix.com/login"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "456PLUS",
+                    "weight": "bold",
+                    "color": "#FF33CC",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกคิตฟรี 100  เเจกฟรีไม่ต้องฝาก",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFFFFF"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เพื่อน 36,028 ติดตาม 33,561 คน",
+                    "size": "xxs",
+                    "color": "#FFFFFF",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF33CC",
+          "endColor": "#FF33CC",
+          "centerColor": "#FFCCFF"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://m.y2k-betflix.com/login"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับฟรี 100",
+          "uri": "https://lin.ee/JIPFXDw"
+        },
+        "style": "primary",
+        "color": "#FF66FF"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF33FF",
+      "endColor": "#FF33FF"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/tpGeuzI"
+    }
+  }
+}
+}]
