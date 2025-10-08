@@ -1,0 +1,178 @@
+[{
+  "type": "flex",
+  "altText": "FREE 100 เครดิตกดรับเลย",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/F_osAWEbEAAGsG12f15ea8c72fbf047.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://lin.ee/UnTxQwp"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/UnTxQwp"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img5.pic.in.th/file/secure-sv1/395808627_122116698524070659_679.jpg",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/UnTxQwp"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px",
+            "offsetTop": "xl"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "สมัครตอนนี้ รับเครดิตฟรี",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ แจกเครดิตฟรี 100 เครดิต",
+                    "size": "md",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "✅ ทำยอด 500 ถอน 100 เลย",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "box",
+                "layout": "vertical",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "กดรับเครดิตแล้ว 16,028 คน ติดตาม 17,604 คน",
+                    "color": "#ececec",
+                    "weight": "bold",
+                    "size": "xxs",
+                    "margin": "md"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#453502"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/UnTxQwp"
+        }
+      }
+    ],
+    "paddingAll": "0px",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UnTxQwp"
+    }
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี",
+          "uri": "https://lin.ee/UnTxQwp"
+        },
+        "style": "primary",
+        "color": "#3fd40c"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#000000",
+      "endColor": "#000000",
+      "centerColor": "#000000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UnTxQwp"
+    }
+  }
+}
+}]
