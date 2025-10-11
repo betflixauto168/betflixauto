@@ -1,0 +1,111 @@
+[{
+  "type": "flex",
+  "altText": "ฉลองเว็บใหม่ แจกจริง100ไม่ต้องฝากก่อน",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/f66fab236f9b04f68ec23539c3255804.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/IGlKobM"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "แจกเครดิตฟรี 100",
+              "uri": "https://lin.ee/IGlKobM"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "none",
+            "color": "#33FF00"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "สมาชิกใหม่ไม่ต้องฝากก่อน",
+              "uri": "https://lin.ee/IGlKobM"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF00"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        }
+      }
+    },
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/65040983861cb2154040e1627c6bf975.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflix336.cc/register"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ทางเข้าเว็บไซต์",
+              "uri": "https://auto.betflix336.cc/register"
+            },
+            "height": "sm",
+            "style": "primary",
+            "margin": "none",
+            "color": "#33FF33"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ฝาก 20 รับ 100",
+              "uri": "https://auto.betflix336.cc/register"
+            },
+            "style": "primary",
+            "height": "sm",
+            "margin": "xxl",
+            "color": "#33FF33"
+          }
+        ],
+        "borderWidth": "normal",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#000000",
+          "endColor": "#000000",
+          "centerColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]
