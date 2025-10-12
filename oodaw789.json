@@ -1,0 +1,64 @@
+[{
+  "type": "flex",
+  "altText": "✔สมัครเสร็จทักขอรับกับแอดได้เลย👉ไม่ฝากไม่แชร์",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/photo_2025-10-12_06-42-14.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uolR8Lo"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "สมัครรับเครดิตฟรีได้แล้ววันนี้",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FFFAFA"
+          },
+          {
+            "type": "text",
+            "text": "200 เครดิตไม่ต้องฝากก่อน",
+            "align": "center",
+            "size": "md",
+            "color": "#FF0000"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับทุนฟรี",
+              "uri": "https://lin.ee/uolR8Lo"
+            },
+            "style": "primary"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "50deg",
+          "startColor": "#1C1C1C",
+          "endColor": "#1C1C1C",
+          "centerColor": "#FFD700"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/uolR8Lo"
+        }
+      }
+    }
+  ]
+}
+}]
