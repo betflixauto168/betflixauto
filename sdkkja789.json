@@ -1,0 +1,85 @@
+[{
+  "type": "flex",
+  "altText": "รับฟรี 💯 เฉพาะคุณที่ได้รับข้อความ📌",
+  "contents": {
+  "type": "bubble",
+  "size": "giga",
+  "hero": {
+    "type": "image",
+    "url": "https://img2.pic.in.th/pic/8f8c5d1a79bd39a79ebba5df80dc490d.jpg",
+    "size": "full",
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UZulEec"
+    }
+  },
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "text",
+        "text": "💎  WNCAMPITAL.co 💎",
+        "size": "xl",
+        "weight": "bold",
+        "align": "center",
+        "color": "#FFFAFA",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/UZulEec"
+        }
+      },
+      {
+        "type": "text",
+        "text": "รับฟรี 100 ไม่ต้องฝากเงินก่อน",
+        "align": "center",
+        "size": "xl",
+        "margin": "md",
+        "weight": "bold",
+        "color": "#FFFAFA",
+        "decoration": "underline"
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "รับฟรี",
+              "uri": "https://lin.ee/UZulEec"
+            },
+            "style": "primary"
+          },
+          {
+            "type": "button",
+            "action": {
+              "type": "uri",
+              "label": "ติดต่อเเอดมิน",
+              "uri": "https://lin.ee/UZulEec"
+            },
+            "style": "primary"
+          }
+        ],
+        "spacing": "md",
+        "margin": "xxl"
+      }
+    ],
+    "backgroundColor": "#FF0000",
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FF0000",
+      "endColor": "#330000"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/UZulEec"
+    }
+  }
+}
+}]
