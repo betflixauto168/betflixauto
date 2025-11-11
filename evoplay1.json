@@ -1,0 +1,149 @@
+[{
+  "type": "flex",
+  "altText": "ทุนฟรี 100 ได้จริงรับมาแล้ว",
+  "contents": {
+  "type": "bubble",
+  "body": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "image",
+            "url": "https://img5.pic.in.th/file/secure-sv1/63f05c448bab49e85b63e33892a38a01.jpg",
+            "size": "full",
+            "gravity": "center",
+            "action": {
+              "type": "uri",
+              "label": "action",
+              "uri": "https://auto.betflix336.cc/register"
+            }
+          }
+        ],
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflix336.cc/register"
+        }
+      },
+      {
+        "type": "box",
+        "layout": "horizontal",
+        "contents": [
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "image",
+                "url": "https://img2.pic.in.th/pic/a6df2cb799db81e760c063ff7248fb0b.png",
+                "aspectMode": "cover",
+                "size": "full",
+                "action": {
+                  "type": "uri",
+                  "label": "action",
+                  "uri": "https://lin.ee/XKxgCwO"
+                }
+              }
+            ],
+            "cornerRadius": "100px",
+            "width": "72px",
+            "height": "72px"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": [
+              {
+                "type": "text",
+                "contents": [
+                  {
+                    "type": "span",
+                    "text": "EVOPLAY",
+                    "weight": "bold",
+                    "color": "#FFB90F",
+                    "size": "lg"
+                  },
+                  {
+                    "type": "span",
+                    "text": "     "
+                  },
+                  {
+                    "type": "span",
+                    "text": "เเจกคิตฟรี 100  เเจกฟรีไม่ต้องฝาก",
+                    "size": "sm",
+                    "weight": "bold",
+                    "color": "#FFB90F"
+                  }
+                ],
+                "size": "sm",
+                "wrap": true
+              },
+              {
+                "type": "box",
+                "layout": "baseline",
+                "contents": [
+                  {
+                    "type": "text",
+                    "text": "เพื่อน 46,028 ติดตาม 50,561 คน",
+                    "size": "xxs",
+                    "color": "#FFB90F",
+                    "weight": "bold"
+                  }
+                ],
+                "spacing": "sm",
+                "margin": "md"
+              }
+            ]
+          }
+        ],
+        "spacing": "xl",
+        "paddingAll": "20px",
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FFFFCC",
+          "endColor": "#FFFFCC",
+          "centerColor": "#FFCCCC"
+        },
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://auto.betflix336.cc/register"
+        }
+      }
+    ],
+    "paddingAll": "0px"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับฟรี 100",
+          "uri": "https://lin.ee/XKxgCwO"
+        },
+        "style": "primary",
+        "color": "#FF9966"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#FFFF99",
+      "endColor": "#FFFF99"
+    },
+    "action": {
+      "type": "uri",
+      "label": "action",
+      "uri": "https://lin.ee/XKxgCwO"
+    }
+  }
+}
+}]
