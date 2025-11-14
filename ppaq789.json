@@ -1,0 +1,78 @@
+[{
+  "type": "flex",
+  "altText": "🎯รับง่าย รับได้ 100 เครดิต ไม่หลอกให้รอ💨",
+  "contents": {
+  "type": "carousel",
+  "contents": [
+    {
+      "type": "bubble",
+      "hero": {
+        "type": "image",
+        "url": "https://img2.pic.in.th/pic/photo_2025-11-15_00-32-36.jpg",
+        "size": "full",
+        "action": {
+          "type": "uri",
+          "label": "action",
+          "uri": "https://lin.ee/yh6G9Su"
+        }
+      },
+      "body": {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "ย่ำแจกฟรี ทำยอด 1,000 บาท",
+            "align": "center",
+            "weight": "bold",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "text",
+            "text": "ถอนได้สูงสุด 500 บาท",
+            "align": "center",
+            "size": "lg",
+            "color": "#FF9900"
+          },
+          {
+            "type": "box",
+            "layout": "horizontal",
+            "contents": [
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "รับเครดิตฟรี",
+                  "uri": "https://lin.ee/yh6G9Su"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              },
+              {
+                "type": "button",
+                "action": {
+                  "type": "uri",
+                  "label": "สมัคร",
+                  "uri": "https://lin.ee/yh6G9Su"
+                },
+                "style": "primary",
+                "height": "sm",
+                "margin": "md"
+              }
+            ],
+            "margin": "lg"
+          }
+        ],
+        "background": {
+          "type": "linearGradient",
+          "angle": "0deg",
+          "startColor": "#FF00FF",
+          "endColor": "#000000"
+        }
+      }
+    }
+  ]
+}
+}]
