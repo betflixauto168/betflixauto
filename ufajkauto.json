@@ -1,0 +1,74 @@
+[{
+  "type": "flex",
+  "altText": "UFAJK168 แจกฟรีทุกยูส",
+  "contents": {
+  "type": "bubble",
+  "header": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": [
+          {
+            "type": "text",
+            "text": "UFA JK168",
+            "weight": "bold",
+            "size": "xxl",
+            "align": "center",
+            "color": "#FFFFFF"
+          },
+          {
+            "type": "box",
+            "layout": "vertical",
+            "contents": []
+          }
+        ],
+        "borderWidth": "semi-bold",
+        "borderColor": "#FFD700",
+        "cornerRadius": "xxl",
+        "backgroundColor": "#2F4F4F"
+      },
+      {
+        "type": "box",
+        "layout": "vertical",
+        "contents": []
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#5F9EA0",
+      "endColor": "#2F4F4F"
+    }
+  },
+  "hero": {
+    "type": "image",
+    "url": "https://img5.pic.in.th/file/secure-sv1/-11.11.jpg",
+    "size": "full"
+  },
+  "footer": {
+    "type": "box",
+    "layout": "vertical",
+    "contents": [
+      {
+        "type": "button",
+        "action": {
+          "type": "uri",
+          "label": "รับเครดิตฟรี คลิกเลย!",
+          "uri": "https://ufajk168.com/"
+        },
+        "style": "primary",
+        "color": "#FFD700"
+      }
+    ],
+    "background": {
+      "type": "linearGradient",
+      "angle": "0deg",
+      "startColor": "#2F4F4F",
+      "endColor": "#2F4F4F"
+    }
+  }
+}
+}]
